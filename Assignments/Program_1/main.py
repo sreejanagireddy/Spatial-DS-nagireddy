@@ -528,5 +528,5 @@ if __name__ == '__main__':
             if event.type == pygame.MOUSEBUTTONDOWN:
                 #print(event.pos)
                 gd.drawpoly(event.pos)
-            pygame.display.flip()
+                pygame.display.flip()
            
