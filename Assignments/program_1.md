@@ -1,3 +1,14 @@
+```py
+/**
+* @ProgramName: Program-1
+* @Author: sreeja nagireddy 
+* @Description: 
+*     This program displays the countries,determines the mouse click and shows the border,rectangular box around 
+*     the country and name of the country. 
+* @Course: 4553 spatial data structures
+* @Semester: summer 1
+* @Date: 14 06 2017
+*/
 import json
 import os,sys
 import pygame
@@ -533,3 +544,4 @@ if __name__ == '__main__':
                 #print(event.pos)
                 gd.drawpoly(event.pos)
             pygame.display.flip()
+```            
