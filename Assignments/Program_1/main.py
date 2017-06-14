@@ -1,5 +1,5 @@
-```py
-/**
+
+"""
 * @ProgramName: Program-1
 * @Author: sreeja nagireddy 
 * @Description: 
@@ -9,6 +9,7 @@
 * @Semester: summer 1
 * @Date: 14 06 2017
 */
+"""
 import json
 import os,sys
 import pygame
@@ -100,10 +101,8 @@ class StateBorders(object):
         Returns a polygon of a single state from the US.
         Args:
             name (string): Name of a single state. 
-
         Returns:
             json (string object): Json representation of a state
-
         Usage:
             sb = StateBorders()
             texas = sb.get_state_polygon('texas')
@@ -126,10 +125,8 @@ class StateBorders(object):
         Returns a list of all the continental us states as polygons.
         Args:
             None
-
         Returns:
             list (list object): list of Json objects representing each continental state.
-
         Usage:
             sb = StateBorders()
             states = sb.get_continental_states()
@@ -152,7 +149,6 @@ class StateBorders(object):
         Returns boolean if key exists in json
         Args:
             key (string) : some identifier 
-
         Returns:
             T/F (bool) : True = Key exists
         """
@@ -181,10 +177,8 @@ class WorldCountries(object):
         Returns a list of all the countries us states.
         Args:
             None
-
         Returns:
             list (list object): List of Json objects representing each country 
-
         Usage:
             wc = WorldCountries()
             countries = wc.get_all_countries()
@@ -202,10 +196,8 @@ class WorldCountries(object):
         Returns a list of one country.
         Args:
             None
-
         Returns:
             list (list object): List of Json object representing a country 
-
         Usage:
             wc = WorldCountries()
             country = wc.get_country('AFG')
@@ -222,7 +214,6 @@ class WorldCountries(object):
         Returns boolean if key exists in json
         Args:
             key (string) : some identifier 
-
         Returns:
             T/F (bool) : True = Key exists
         """
@@ -275,7 +266,6 @@ class DrawGeoJson(object):
         Args:
             lon (float): longitude
             lat (float): latitude
-
         Returns:
             point (tuple): x,y coords adjusted to fit on print window
         """
@@ -294,7 +284,6 @@ class DrawGeoJson(object):
         Add a polygon to local collection to be drawn later
         Args:
             poly (list): list of lat/lons
-
         Returns:
             None
         """
@@ -371,7 +360,6 @@ class DrawGeoJson(object):
         Draw our polygons to the screen
         Args:
             None
-
         Returns:
             None
         """ 
@@ -392,7 +380,6 @@ class DrawGeoJson(object):
         the "bounding box" surrounding all the points. Not perfect.
         Args:
             None
-
         Returns:
             None
         """  
@@ -427,10 +414,8 @@ class DrawingFacade(object):
         expects a list of values.
         Args:
             ids (list) : A list of any state or country identifiers
-
         Returns:
             None
-
         Usage:
             df.add_polygons(['FRA','TX','ESP','AFG','NY','ME','Kenya'])
         """ 
@@ -544,5 +529,4 @@ if __name__ == '__main__':
                 #print(event.pos)
                 gd.drawpoly(event.pos)
             pygame.display.flip()
-```            
-
+           
