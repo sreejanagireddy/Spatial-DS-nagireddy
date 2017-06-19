@@ -43,6 +43,12 @@ class crime(object):
 		
 	
 	def manhattan(self):
+		"""
+		ARGS:NONE
+		RETURN:NONE
+		method stores all the points ina list. 
+		RAISES:value error
+		"""
 		
 
 		keys = []
@@ -84,6 +90,13 @@ class crime(object):
 			self.file1.append((x*1000,(1-y)*1000))
 
 	def	bronx(self):
+		"""
+		ARGS:NONE
+		RETURN:NONE
+		method stores all the points ina list. 
+		RAISES:value error
+		"""
+
 	 
 	
 		keys = []
@@ -125,6 +138,13 @@ class crime(object):
 
 		
 	def island(self):	
+		"""
+		ARGS:NONE
+		RETURN:NONE
+		method stores all the points ina list. 
+		RAISES:value error
+		"""
+				
 	
 		keys = []
 		crimes=[]
@@ -164,6 +184,12 @@ class crime(object):
 			
 			self.file3.append((x*1000,(1-y)*1000))
 	def queens(self):	
+		"""
+		ARGS:NONE
+		RETURN:NONE
+		method stores all the points ina list. 
+		RAISES:value error
+		"""
 	
 
 	
@@ -204,6 +230,12 @@ class crime(object):
 			self.file4.append((x*1000,(1-y)*1000))
 			
 	def brooklyn(self):
+		"""
+		ARGS:NONE
+		RETURN:NONE
+		method stores all the points ina list. 
+		RAISES:value error
+		"""
 	
 	
 		keys = []
@@ -229,7 +261,9 @@ class crime(object):
 			if len(crime) == 24:
 				if len(crime[19]) != 0 and len(crime[20]) != 0:
 					x = crime[19]
+				   # print(x)
 					y = crime[20]
+					#print(y)
 					x10=int(x)
 					y10=int(y)
 					points.append((x10,y10))
