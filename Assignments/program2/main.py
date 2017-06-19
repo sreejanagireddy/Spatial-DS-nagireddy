@@ -1,4 +1,3 @@
-```py
 """
 Program:
 --------
@@ -287,4 +286,4 @@ if __name__ == "__main__":
 			pygame.draw.circle(screen, (128,22,56), (int(p[0]),int(p[1])), 3, 0)	
 		pygame.image.save(screen , "crime.png")	
 		pygame.display.flip()
-```
+
