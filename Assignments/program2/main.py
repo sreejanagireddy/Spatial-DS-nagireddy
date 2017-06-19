@@ -229,9 +229,7 @@ class crime(object):
 			if len(crime) == 24:
 				if len(crime[19]) != 0 and len(crime[20]) != 0:
 					x = crime[19]
-				   # print(x)
 					y = crime[20]
-					#print(y)
 					x10=int(x)
 					y10=int(y)
 					points.append((x10,y10))
@@ -271,9 +269,11 @@ if __name__ == "__main__":
 	while running:
 		pygame.init()
 		myfont = pygame.font.SysFont(None,56)
-		text = myfont.render("sreeja Nagireddy",True,black)
+		text = myfont.render("program2",True,black)
 		screen.blit(text,(0,20))
-		
+		myfont = pygame.font.SysFont(None,56)
+		text = myfont.render("SreejaNagireddy",True,black)
+		screen.blit(text,(0,60))
 		for p in c.file1:
 			pygame.draw.circle(screen,(194,35,38), (int(p[0]),int(p[1])), 3, 0)
 		for p in c.file2:
@@ -286,4 +286,3 @@ if __name__ == "__main__":
 			pygame.draw.circle(screen, (128,22,56), (int(p[0]),int(p[1])), 3, 0)	
 		pygame.image.save(screen , "crime.png")	
 		pygame.display.flip()
-
