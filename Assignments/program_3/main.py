@@ -1,4 +1,3 @@
-```py
 """
 Program:
 --------
@@ -57,7 +56,6 @@ if __name__=='__main__':
             i = 1
 
         pygame.display.flip()
-        pygame.time.wait(10)
-```        
+        pygame.time.wait(10)      
         
         
