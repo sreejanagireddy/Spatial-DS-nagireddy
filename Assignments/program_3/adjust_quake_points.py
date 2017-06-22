@@ -2,7 +2,7 @@ import math
 import json
 import sys
 import os
-
+DIPATH = os.path.dirname(os.path.realpath(__file__))+'/json_files'
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
 def mercX(lon):
     """
@@ -64,7 +64,7 @@ if __name__=='__main__':
     points = []
     #Looping through all the json files from 1960 to 2016 to save all the data in a list.
     for y in years:
-        f = open(DIRPATH+'/'+'quake-'+str(y)+'.json','r')
+        f = open(DIPATH+'/'+'quake-'+str(y)+'.json','r')
         data = json.loads(f.read())
         for quake in data['features']:
             #st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
