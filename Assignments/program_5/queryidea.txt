@@ -1,4 +1,3 @@
 find the country with most earthquakes near the airports.
 listing volcanoes in the largest city of each country all over the world.
 find  the number valconoes and earthquakes occured at the same time all over the world.
-
