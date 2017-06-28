@@ -1,0 +1,6005 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AD",
+                "countryName": "Andorra",
+                "currencyCode": "EUR",
+                "population": "84000",
+                "fipsCode": "AN",
+                "isoNumeric": "020",
+                "capital": "Andorra la Vella",
+                "continentName": "Europe",
+                "languages": "ca",
+                "geonameId": "3041565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.65604389629997",
+                    "42.42849259876837",
+                    "1.7865427778319827",
+                    "1.4071867141112762"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AE",
+                "countryName": "United Arab Emirates",
+                "currencyCode": "AED",
+                "population": "4975593",
+                "fipsCode": "AE",
+                "isoNumeric": "784",
+                "capital": "Abu Dhabi",
+                "continentName": "Asia",
+                "languages": "ar-AE,fa,en,hi,ur",
+                "geonameId": "290557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.08415985107422",
+                    "22.633329391479492",
+                    "56.38166046142578",
+                    "51.58332824707031"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AF",
+                "countryName": "Afghanistan",
+                "currencyCode": "AFN",
+                "population": "29121286",
+                "fipsCode": "AF",
+                "isoNumeric": "004",
+                "capital": "Kabul",
+                "continentName": "Asia",
+                "languages": "fa-AF,ps,uz-AF,tk",
+                "geonameId": "1149361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.483418",
+                    "29.377472",
+                    "74.879448",
+                    "60.478443"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AG",
+                "countryName": "Antigua and Barbuda",
+                "currencyCode": "XCD",
+                "population": "86754",
+                "fipsCode": "AC",
+                "isoNumeric": "028",
+                "capital": "St. John's",
+                "continentName": "North America",
+                "languages": "en-AG",
+                "geonameId": "3576396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.729387",
+                    "16.996979",
+                    "-61.672421",
+                    "-61.906425"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AI",
+                "countryName": "Anguilla",
+                "currencyCode": "XCD",
+                "population": "13254",
+                "fipsCode": "AV",
+                "isoNumeric": "660",
+                "capital": "The Valley",
+                "continentName": "North America",
+                "languages": "en-AI",
+                "geonameId": "3573511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.283424",
+                    "18.166815",
+                    "-62.971359",
+                    "-63.172901"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AL",
+                "countryName": "Albania",
+                "currencyCode": "ALL",
+                "population": "2986952",
+                "fipsCode": "AL",
+                "isoNumeric": "008",
+                "capital": "Tirana",
+                "continentName": "Europe",
+                "languages": "sq,el",
+                "geonameId": "783754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.665611",
+                    "39.648361",
+                    "21.068472",
+                    "19.293972"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AM",
+                "countryName": "Armenia",
+                "currencyCode": "AMD",
+                "population": "2968000",
+                "fipsCode": "AM",
+                "isoNumeric": "051",
+                "capital": "Yerevan",
+                "continentName": "Asia",
+                "languages": "hy",
+                "geonameId": "174982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.301834",
+                    "38.830528",
+                    "46.772435045159995",
+                    "43.44978"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AO",
+                "countryName": "Angola",
+                "currencyCode": "AOA",
+                "population": "13068161",
+                "fipsCode": "AO",
+                "isoNumeric": "024",
+                "capital": "Luanda",
+                "continentName": "Africa",
+                "languages": "pt-AO",
+                "geonameId": "3351879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.376826",
+                    "-18.042076",
+                    "24.082119",
+                    "11.679219"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AQ",
+                "countryName": "Antarctica",
+                "currencyCode": "",
+                "population": "0",
+                "fipsCode": "AY",
+                "isoNumeric": "010",
+                "capital": "",
+                "continentName": "Antarctica",
+                "languages": "",
+                "geonameId": "6697173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-60.515533",
+                    "-89.9999",
+                    "179.9999",
+                    "-179.9999"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AR",
+                "countryName": "Argentina",
+                "currencyCode": "ARS",
+                "population": "41343201",
+                "fipsCode": "AR",
+                "isoNumeric": "032",
+                "capital": "Buenos Aires",
+                "continentName": "South America",
+                "languages": "es-AR,en,it,de,fr,gn",
+                "geonameId": "3865483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-21.781277",
+                    "-55.061314",
+                    "-53.591835",
+                    "-73.58297"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AS",
+                "countryName": "American Samoa",
+                "currencyCode": "USD",
+                "population": "57881",
+                "fipsCode": "AQ",
+                "isoNumeric": "016",
+                "capital": "Pago Pago",
+                "continentName": "Oceania",
+                "languages": "en-AS,sm,to",
+                "geonameId": "5880801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-11.0497",
+                    "-14.382478",
+                    "-169.416077",
+                    "-171.091888"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AT",
+                "countryName": "Austria",
+                "currencyCode": "EUR",
+                "population": "8205000",
+                "fipsCode": "AU",
+                "isoNumeric": "040",
+                "capital": "Vienna",
+                "continentName": "Europe",
+                "languages": "de-AT,hr,hu,sl",
+                "geonameId": "2782113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "49.0211627691393",
+                    "46.3726520216244",
+                    "17.1620685652599",
+                    "9.53095237240833"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AU",
+                "countryName": "Australia",
+                "currencyCode": "AUD",
+                "population": "21515754",
+                "fipsCode": "AS",
+                "isoNumeric": "036",
+                "capital": "Canberra",
+                "continentName": "Oceania",
+                "languages": "en-AU",
+                "geonameId": "2077456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.062805",
+                    "-43.64397",
+                    "153.639252",
+                    "112.911057"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AW",
+                "countryName": "Aruba",
+                "currencyCode": "AWG",
+                "population": "71566",
+                "fipsCode": "AA",
+                "isoNumeric": "533",
+                "capital": "Oranjestad",
+                "continentName": "North America",
+                "languages": "nl-AW,es,en",
+                "geonameId": "3577279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.623718127152925",
+                    "12.411707706190716",
+                    "-69.86575120104982",
+                    "-70.0644737196045"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AX",
+                "countryName": "\u00c3\u2026land",
+                "currencyCode": "EUR",
+                "population": "26711",
+                "fipsCode": "",
+                "isoNumeric": "248",
+                "capital": "Mariehamn",
+                "continentName": "Europe",
+                "languages": "sv-AX",
+                "geonameId": "661882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "60.488861",
+                    "59.90675",
+                    "21.011862",
+                    "19.317694"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "AZ",
+                "countryName": "Azerbaijan",
+                "currencyCode": "AZN",
+                "population": "8303512",
+                "fipsCode": "AJ",
+                "isoNumeric": "031",
+                "capital": "Baku",
+                "continentName": "Asia",
+                "languages": "az,ru,hy",
+                "geonameId": "587116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.90564",
+                    "38.38915252685547",
+                    "50.370083",
+                    "44.774113"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BA",
+                "countryName": "Bosnia and Herzegovina",
+                "currencyCode": "BAM",
+                "population": "4590000",
+                "fipsCode": "BK",
+                "isoNumeric": "070",
+                "capital": "Sarajevo",
+                "continentName": "Europe",
+                "languages": "bs,hr-BA,sr-BA",
+                "geonameId": "3277605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.239193",
+                    "42.546112",
+                    "19.622223",
+                    "15.718945"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BB",
+                "countryName": "Barbados",
+                "currencyCode": "BBD",
+                "population": "285653",
+                "fipsCode": "BB",
+                "isoNumeric": "052",
+                "capital": "Bridgetown",
+                "continentName": "North America",
+                "languages": "en-BB",
+                "geonameId": "3374084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.327257",
+                    "13.039844",
+                    "-59.420376",
+                    "-59.648922"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BD",
+                "countryName": "Bangladesh",
+                "currencyCode": "BDT",
+                "population": "156118464",
+                "fipsCode": "BG",
+                "isoNumeric": "050",
+                "capital": "Dhaka",
+                "continentName": "Asia",
+                "languages": "bn-BD,en",
+                "geonameId": "1210997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.631945",
+                    "20.743334",
+                    "92.673668",
+                    "88.028336"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BE",
+                "countryName": "Belgium",
+                "currencyCode": "EUR",
+                "population": "10403000",
+                "fipsCode": "BE",
+                "isoNumeric": "056",
+                "capital": "Brussels",
+                "continentName": "Europe",
+                "languages": "nl-BE,fr-BE,de-BE",
+                "geonameId": "2802361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "51.505444",
+                    "49.49361",
+                    "6.403861",
+                    "2.546944"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BF",
+                "countryName": "Burkina Faso",
+                "currencyCode": "XOF",
+                "population": "16241811",
+                "fipsCode": "UV",
+                "isoNumeric": "854",
+                "capital": "Ouagadougou",
+                "continentName": "Africa",
+                "languages": "fr-BF",
+                "geonameId": "2361809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.082593",
+                    "9.401108",
+                    "2.405395",
+                    "-5.518916"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BG",
+                "countryName": "Bulgaria",
+                "currencyCode": "BGN",
+                "population": "7148785",
+                "fipsCode": "BU",
+                "isoNumeric": "100",
+                "capital": "Sofia",
+                "continentName": "Europe",
+                "languages": "bg,tr-BG,rom",
+                "geonameId": "732800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.21764",
+                    "41.242084",
+                    "28.612167",
+                    "22.371166"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BH",
+                "countryName": "Bahrain",
+                "currencyCode": "BHD",
+                "population": "738004",
+                "fipsCode": "BA",
+                "isoNumeric": "048",
+                "capital": "Manama",
+                "continentName": "Asia",
+                "languages": "ar-BH,en,fa,ur",
+                "geonameId": "290291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.282583",
+                    "25.796862",
+                    "50.664471",
+                    "50.45414"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BI",
+                "countryName": "Burundi",
+                "currencyCode": "BIF",
+                "population": "9863117",
+                "fipsCode": "BY",
+                "isoNumeric": "108",
+                "capital": "Bujumbura",
+                "continentName": "Africa",
+                "languages": "fr-BI,rn",
+                "geonameId": "433561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.310123",
+                    "-4.465713",
+                    "30.847729",
+                    "28.993061"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BJ",
+                "countryName": "Benin",
+                "currencyCode": "XOF",
+                "population": "9056010",
+                "fipsCode": "BN",
+                "isoNumeric": "204",
+                "capital": "Porto-Novo",
+                "continentName": "Africa",
+                "languages": "fr-BJ",
+                "geonameId": "2395170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.418347",
+                    "6.225748",
+                    "3.851701",
+                    "0.774575"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BL",
+                "countryName": "Saint Barth\u00c3\u00a9lemy",
+                "currencyCode": "EUR",
+                "population": "8450",
+                "fipsCode": "TB",
+                "isoNumeric": "652",
+                "capital": "Gustavia",
+                "continentName": "North America",
+                "languages": "fr",
+                "geonameId": "3578476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.928808791949283",
+                    "17.878183227405575",
+                    "-62.788983372985854",
+                    "-62.8739118253784"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BM",
+                "countryName": "Bermuda",
+                "currencyCode": "BMD",
+                "population": "65365",
+                "fipsCode": "BD",
+                "isoNumeric": "060",
+                "capital": "Hamilton",
+                "continentName": "North America",
+                "languages": "en-BM,pt",
+                "geonameId": "3573345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.393833",
+                    "32.246639",
+                    "-64.651993",
+                    "-64.89605"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BN",
+                "countryName": "Brunei",
+                "currencyCode": "BND",
+                "population": "395027",
+                "fipsCode": "BX",
+                "isoNumeric": "096",
+                "capital": "Bandar Seri Begawan",
+                "continentName": "Asia",
+                "languages": "ms-BN,en-BN",
+                "geonameId": "1820814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.047167",
+                    "4.003083",
+                    "115.359444",
+                    "114.071442"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BO",
+                "countryName": "Bolivia",
+                "currencyCode": "BOB",
+                "population": "9947418",
+                "fipsCode": "BL",
+                "isoNumeric": "068",
+                "capital": "Sucre",
+                "continentName": "South America",
+                "languages": "es-BO,qu,ay",
+                "geonameId": "3923057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.680567",
+                    "-22.896133",
+                    "-57.45809600000001",
+                    "-69.640762"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BQ",
+                "countryName": "Bonaire",
+                "currencyCode": "USD",
+                "population": "18012",
+                "fipsCode": "",
+                "isoNumeric": "535",
+                "capital": "",
+                "continentName": "North America",
+                "languages": "nl,pap,en",
+                "geonameId": "7626844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.304535",
+                    "12.017149",
+                    "-68.192307",
+                    "-68.416458"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BR",
+                "countryName": "Brazil",
+                "currencyCode": "BRL",
+                "population": "201103330",
+                "fipsCode": "BR",
+                "isoNumeric": "076",
+                "capital": "Bras\u00c3\u00adlia",
+                "continentName": "South America",
+                "languages": "pt-BR,es,en,fr",
+                "geonameId": "3469034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.264877",
+                    "-33.750706",
+                    "-32.392998",
+                    "-73.985535"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BS",
+                "countryName": "Bahamas",
+                "currencyCode": "BSD",
+                "population": "301790",
+                "fipsCode": "BF",
+                "isoNumeric": "044",
+                "capital": "Nassau",
+                "continentName": "North America",
+                "languages": "en-BS",
+                "geonameId": "3572887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.919243",
+                    "22.852743",
+                    "-74.423874",
+                    "-78.995911"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BT",
+                "countryName": "Bhutan",
+                "currencyCode": "BTN",
+                "population": "699847",
+                "fipsCode": "BT",
+                "isoNumeric": "064",
+                "capital": "Thimphu",
+                "continentName": "Asia",
+                "languages": "dz",
+                "geonameId": "1252634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.323778",
+                    "26.70764",
+                    "92.125191",
+                    "88.75972"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BV",
+                "countryName": "Bouvet Island",
+                "currencyCode": "NOK",
+                "population": "0",
+                "fipsCode": "BV",
+                "isoNumeric": "074",
+                "capital": "",
+                "continentName": "Antarctica",
+                "languages": "",
+                "geonameId": "3371123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-54.400322",
+                    "-54.462383",
+                    "3.487976",
+                    "3.335499"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BW",
+                "countryName": "Botswana",
+                "currencyCode": "BWP",
+                "population": "2029307",
+                "fipsCode": "BC",
+                "isoNumeric": "072",
+                "capital": "Gaborone",
+                "continentName": "Africa",
+                "languages": "en-BW,tn-BW",
+                "geonameId": "933860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-17.780813",
+                    "-26.907246",
+                    "29.360781",
+                    "19.999535"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BY",
+                "countryName": "Belarus",
+                "currencyCode": "BYR",
+                "population": "9685000",
+                "fipsCode": "BO",
+                "isoNumeric": "112",
+                "capital": "Minsk",
+                "continentName": "Europe",
+                "languages": "be,ru",
+                "geonameId": "630336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "56.165806",
+                    "51.256416",
+                    "32.770805",
+                    "23.176889"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "BZ",
+                "countryName": "Belize",
+                "currencyCode": "BZD",
+                "population": "314522",
+                "fipsCode": "BH",
+                "isoNumeric": "084",
+                "capital": "Belmopan",
+                "continentName": "North America",
+                "languages": "en-BZ,es",
+                "geonameId": "3582678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.496557",
+                    "15.8893",
+                    "-87.776985",
+                    "-89.224815"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CA",
+                "countryName": "Canada",
+                "currencyCode": "CAD",
+                "population": "33679000",
+                "fipsCode": "CA",
+                "isoNumeric": "124",
+                "capital": "Ottawa",
+                "continentName": "North America",
+                "languages": "en-CA,fr-CA,iu",
+                "geonameId": "6251999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "83.110626",
+                    "41.67598",
+                    "-52.636291",
+                    "-141"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CC",
+                "countryName": "Cocos [Keeling] Islands",
+                "currencyCode": "AUD",
+                "population": "628",
+                "fipsCode": "CK",
+                "isoNumeric": "166",
+                "capital": "West Island",
+                "continentName": "Asia",
+                "languages": "ms-CC,en",
+                "geonameId": "1547376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-12.072459094",
+                    "-12.208725839",
+                    "96.929489344",
+                    "96.816941408"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CD",
+                "countryName": "Democratic Republic of the Congo",
+                "currencyCode": "CDF",
+                "population": "70916439",
+                "fipsCode": "CG",
+                "isoNumeric": "180",
+                "capital": "Kinshasa",
+                "continentName": "Africa",
+                "languages": "fr-CD,ln,kg",
+                "geonameId": "203312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.386098",
+                    "-13.455675",
+                    "31.305912",
+                    "12.204144"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CF",
+                "countryName": "Central African Republic",
+                "currencyCode": "XAF",
+                "population": "4844927",
+                "fipsCode": "CT",
+                "isoNumeric": "140",
+                "capital": "Bangui",
+                "continentName": "Africa",
+                "languages": "fr-CF,sg,ln,kg",
+                "geonameId": "239880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.007569",
+                    "2.220514",
+                    "27.463421",
+                    "14.420097"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CG",
+                "countryName": "Republic of the Congo",
+                "currencyCode": "XAF",
+                "population": "3039126",
+                "fipsCode": "CF",
+                "isoNumeric": "178",
+                "capital": "Brazzaville",
+                "continentName": "Africa",
+                "languages": "fr-CG,kg,ln-CG",
+                "geonameId": "2260494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.703082",
+                    "-5.027223",
+                    "18.649839",
+                    "11.205009"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CH",
+                "countryName": "Switzerland",
+                "currencyCode": "CHF",
+                "population": "7581000",
+                "fipsCode": "SZ",
+                "isoNumeric": "756",
+                "capital": "Berne",
+                "continentName": "Europe",
+                "languages": "de-CH,fr-CH,it-CH,rm",
+                "geonameId": "2658434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "47.805332",
+                    "45.825695",
+                    "10.491472",
+                    "5.957472"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CI",
+                "countryName": "Ivory Coast",
+                "currencyCode": "XOF",
+                "population": "21058798",
+                "fipsCode": "IV",
+                "isoNumeric": "384",
+                "capital": "Yamoussoukro",
+                "continentName": "Africa",
+                "languages": "fr-CI",
+                "geonameId": "2287781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.736642",
+                    "4.357067",
+                    "-2.494897",
+                    "-8.599302"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CK",
+                "countryName": "Cook Islands",
+                "currencyCode": "NZD",
+                "population": "21388",
+                "fipsCode": "CW",
+                "isoNumeric": "184",
+                "capital": "Avarua",
+                "continentName": "Oceania",
+                "languages": "en-CK,mi",
+                "geonameId": "1899402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.023114",
+                    "-21.944164",
+                    "-157.312134",
+                    "-161.093658"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CL",
+                "countryName": "Chile",
+                "currencyCode": "CLP",
+                "population": "16746491",
+                "fipsCode": "CI",
+                "isoNumeric": "152",
+                "capital": "Santiago",
+                "continentName": "South America",
+                "languages": "es-CL",
+                "geonameId": "3895114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-17.507553",
+                    "-55.9256225109217",
+                    "-66.417557",
+                    "-80.785851"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CM",
+                "countryName": "Cameroon",
+                "currencyCode": "XAF",
+                "population": "19294149",
+                "fipsCode": "CM",
+                "isoNumeric": "120",
+                "capital": "Yaound\u00c3\u00a9",
+                "continentName": "Africa",
+                "languages": "en-CM,fr-CM",
+                "geonameId": "2233387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.078056",
+                    "1.652548",
+                    "16.192116",
+                    "8.494763"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CN",
+                "countryName": "China",
+                "currencyCode": "CNY",
+                "population": "1330044000",
+                "fipsCode": "CH",
+                "isoNumeric": "156",
+                "capital": "Beijing",
+                "continentName": "Asia",
+                "languages": "zh-CN,yue,wuu,dta,ug,za",
+                "geonameId": "1814991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "53.56086",
+                    "15.775416",
+                    "134.773911",
+                    "73.557693"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CO",
+                "countryName": "Colombia",
+                "currencyCode": "COP",
+                "population": "47790000",
+                "fipsCode": "CO",
+                "isoNumeric": "170",
+                "capital": "Bogot\u00c3\u00a1",
+                "continentName": "South America",
+                "languages": "es-CO",
+                "geonameId": "3686110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.380502",
+                    "-4.225869",
+                    "-66.869835",
+                    "-81.728111"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CR",
+                "countryName": "Costa Rica",
+                "currencyCode": "CRC",
+                "population": "4516220",
+                "fipsCode": "CS",
+                "isoNumeric": "188",
+                "capital": "San Jos\u00c3\u00a9",
+                "continentName": "North America",
+                "languages": "es-CR,en",
+                "geonameId": "3624060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.216819",
+                    "8.032975",
+                    "-82.555992",
+                    "-85.950623"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CU",
+                "countryName": "Cuba",
+                "currencyCode": "CUP",
+                "population": "11423000",
+                "fipsCode": "CU",
+                "isoNumeric": "192",
+                "capital": "Havana",
+                "continentName": "North America",
+                "languages": "es-CU",
+                "geonameId": "3562981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "23.226042",
+                    "19.828083",
+                    "-74.131775",
+                    "-84.957428"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CV",
+                "countryName": "Cape Verde",
+                "currencyCode": "CVE",
+                "population": "508659",
+                "fipsCode": "CV",
+                "isoNumeric": "132",
+                "capital": "Praia",
+                "continentName": "Africa",
+                "languages": "pt-CV",
+                "geonameId": "3374766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.197178",
+                    "14.808022",
+                    "-22.669443",
+                    "-25.358747"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CW",
+                "countryName": "Curacao",
+                "currencyCode": "ANG",
+                "population": "141766",
+                "fipsCode": "UC",
+                "isoNumeric": "531",
+                "capital": "Willemstad",
+                "continentName": "North America",
+                "languages": "nl,pap",
+                "geonameId": "7626836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.385672",
+                    "12.032745",
+                    "-68.733948",
+                    "-69.157204"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CX",
+                "countryName": "Christmas Island",
+                "currencyCode": "AUD",
+                "population": "1500",
+                "fipsCode": "KT",
+                "isoNumeric": "162",
+                "capital": "The Settlement",
+                "continentName": "Asia",
+                "languages": "en,zh,ms-CC",
+                "geonameId": "2078138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.412356007",
+                    "-10.5704829995",
+                    "105.712596992",
+                    "105.533276992"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CY",
+                "countryName": "Cyprus",
+                "currencyCode": "EUR",
+                "population": "1102677",
+                "fipsCode": "CY",
+                "isoNumeric": "196",
+                "capital": "Nicosia",
+                "continentName": "Europe",
+                "languages": "el-CY,tr-CY,en",
+                "geonameId": "146669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.701527",
+                    "34.6332846722908",
+                    "34.59791599999994",
+                    "32.27308300000004"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic",
+                "currencyCode": "CZK",
+                "population": "10476000",
+                "fipsCode": "EZ",
+                "isoNumeric": "203",
+                "capital": "Prague",
+                "continentName": "Europe",
+                "languages": "cs,sk",
+                "geonameId": "3077311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "51.058887",
+                    "48.542915",
+                    "18.860111",
+                    "12.096194"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "DE",
+                "countryName": "Germany",
+                "currencyCode": "EUR",
+                "population": "81802257",
+                "fipsCode": "GM",
+                "isoNumeric": "276",
+                "capital": "Berlin",
+                "continentName": "Europe",
+                "languages": "de",
+                "geonameId": "2921044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "55.055637",
+                    "47.275776",
+                    "15.039889",
+                    "5.865639"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "DJ",
+                "countryName": "Djibouti",
+                "currencyCode": "DJF",
+                "population": "740528",
+                "fipsCode": "DJ",
+                "isoNumeric": "262",
+                "capital": "Djibouti",
+                "continentName": "Africa",
+                "languages": "fr-DJ,ar,so-DJ,aa",
+                "geonameId": "223816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.706833",
+                    "10.909917",
+                    "43.416973",
+                    "41.773472"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "DK",
+                "countryName": "Denmark",
+                "currencyCode": "DKK",
+                "population": "5484000",
+                "fipsCode": "DA",
+                "isoNumeric": "208",
+                "capital": "Copenhagen",
+                "continentName": "Europe",
+                "languages": "da-DK,en,fo,de-DK",
+                "geonameId": "2623032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "57.748417",
+                    "54.562389",
+                    "15.158834",
+                    "8.075611"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "DM",
+                "countryName": "Dominica",
+                "currencyCode": "XCD",
+                "population": "72813",
+                "fipsCode": "DO",
+                "isoNumeric": "212",
+                "capital": "Roseau",
+                "continentName": "North America",
+                "languages": "en-DM",
+                "geonameId": "3575830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.631809",
+                    "15.20169",
+                    "-61.244152",
+                    "-61.484108"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "DO",
+                "countryName": "Dominican Republic",
+                "currencyCode": "DOP",
+                "population": "9823821",
+                "fipsCode": "DR",
+                "isoNumeric": "214",
+                "capital": "Santo Domingo",
+                "continentName": "North America",
+                "languages": "es-DO",
+                "geonameId": "3508796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.929859",
+                    "17.543159",
+                    "-68.32",
+                    "-72.003487"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "DZ",
+                "countryName": "Algeria",
+                "currencyCode": "DZD",
+                "population": "34586184",
+                "fipsCode": "AG",
+                "isoNumeric": "012",
+                "capital": "Algiers",
+                "continentName": "Africa",
+                "languages": "ar-DZ",
+                "geonameId": "2589581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.093723",
+                    "18.960028",
+                    "11.979548",
+                    "-8.673868"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "EC",
+                "countryName": "Ecuador",
+                "currencyCode": "USD",
+                "population": "14790608",
+                "fipsCode": "EC",
+                "isoNumeric": "218",
+                "capital": "Quito",
+                "continentName": "South America",
+                "languages": "es-EC",
+                "geonameId": "3658394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.43902",
+                    "-4.998823",
+                    "-75.184586",
+                    "-81.078598"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "EE",
+                "countryName": "Estonia",
+                "currencyCode": "EUR",
+                "population": "1291170",
+                "fipsCode": "EN",
+                "isoNumeric": "233",
+                "capital": "Tallinn",
+                "continentName": "Europe",
+                "languages": "et,ru",
+                "geonameId": "453733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "59.676224",
+                    "57.516193",
+                    "28.209972",
+                    "21.837584"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "EG",
+                "countryName": "Egypt",
+                "currencyCode": "EGP",
+                "population": "80471869",
+                "fipsCode": "EG",
+                "isoNumeric": "818",
+                "capital": "Cairo",
+                "continentName": "Africa",
+                "languages": "ar-EG,en,fr",
+                "geonameId": "357994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.667334",
+                    "21.725389",
+                    "36.89833068847656",
+                    "24.698111"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "EH",
+                "countryName": "Western Sahara",
+                "currencyCode": "MAD",
+                "population": "273008",
+                "fipsCode": "WI",
+                "isoNumeric": "732",
+                "capital": "El Aai\u00c3\u00ban",
+                "continentName": "Africa",
+                "languages": "ar,mey",
+                "geonameId": "2461445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.669674",
+                    "20.774158",
+                    "-8.670276",
+                    "-17.103182"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ER",
+                "countryName": "Eritrea",
+                "currencyCode": "ERN",
+                "population": "5792984",
+                "fipsCode": "ER",
+                "isoNumeric": "232",
+                "capital": "Asmara",
+                "continentName": "Africa",
+                "languages": "aa-ER,ar,tig,kun,ti-ER",
+                "geonameId": "338010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.003084",
+                    "12.359555",
+                    "43.13464",
+                    "36.438778"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ES",
+                "countryName": "Spain",
+                "currencyCode": "EUR",
+                "population": "46505963",
+                "fipsCode": "SP",
+                "isoNumeric": "724",
+                "capital": "Madrid",
+                "continentName": "Europe",
+                "languages": "es-ES,ca,gl,eu,oc",
+                "geonameId": "2510769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.7913565913767",
+                    "36.0001044260548",
+                    "4.32778473043961",
+                    "-9.30151567231899"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ET",
+                "countryName": "Ethiopia",
+                "currencyCode": "ETB",
+                "population": "88013491",
+                "fipsCode": "ET",
+                "isoNumeric": "231",
+                "capital": "Addis Ababa",
+                "continentName": "Africa",
+                "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
+                "geonameId": "337996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.89375",
+                    "3.402422",
+                    "47.986179",
+                    "32.999939"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "FI",
+                "countryName": "Finland",
+                "currencyCode": "EUR",
+                "population": "5244000",
+                "fipsCode": "FI",
+                "isoNumeric": "246",
+                "capital": "Helsinki",
+                "continentName": "Europe",
+                "languages": "fi-FI,sv-FI,smn",
+                "geonameId": "660013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "70.096054",
+                    "59.808777",
+                    "31.580944",
+                    "20.556944"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "FJ",
+                "countryName": "Fiji",
+                "currencyCode": "FJD",
+                "population": "875983",
+                "fipsCode": "FJ",
+                "isoNumeric": "242",
+                "capital": "Suva",
+                "continentName": "Oceania",
+                "languages": "en-FJ,fj",
+                "geonameId": "2205218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-12.480111",
+                    "-20.67597",
+                    "-178.424438",
+                    "177.129334"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "FK",
+                "countryName": "Falkland Islands",
+                "currencyCode": "FKP",
+                "population": "2638",
+                "fipsCode": "FK",
+                "isoNumeric": "238",
+                "capital": "Stanley",
+                "continentName": "South America",
+                "languages": "en-FK",
+                "geonameId": "3474414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-51.24065",
+                    "-52.360512",
+                    "-57.712486",
+                    "-61.345192"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "FM",
+                "countryName": "Micronesia",
+                "currencyCode": "USD",
+                "population": "107708",
+                "fipsCode": "FM",
+                "isoNumeric": "583",
+                "capital": "Palikir",
+                "continentName": "Oceania",
+                "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
+                "geonameId": "2081918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.08904",
+                    "1.02629",
+                    "163.03717",
+                    "137.33648"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "FO",
+                "countryName": "Faroe Islands",
+                "currencyCode": "DKK",
+                "population": "48228",
+                "fipsCode": "FO",
+                "isoNumeric": "234",
+                "capital": "T\u00c3\u00b3rshavn",
+                "continentName": "Europe",
+                "languages": "fo,da-FO",
+                "geonameId": "2622320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "62.400749",
+                    "61.394943",
+                    "-6.399583",
+                    "-7.458"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "FR",
+                "countryName": "France",
+                "currencyCode": "EUR",
+                "population": "64768389",
+                "fipsCode": "FR",
+                "isoNumeric": "250",
+                "capital": "Paris",
+                "continentName": "Europe",
+                "languages": "fr-FR,frp,br,co,ca,eu,oc",
+                "geonameId": "3017382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "51.092804",
+                    "41.371582",
+                    "9.561556",
+                    "-5.142222"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GA",
+                "countryName": "Gabon",
+                "currencyCode": "XAF",
+                "population": "1545255",
+                "fipsCode": "GB",
+                "isoNumeric": "266",
+                "capital": "Libreville",
+                "continentName": "Africa",
+                "languages": "fr-GA",
+                "geonameId": "2400553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.322612",
+                    "-3.978806",
+                    "14.502347",
+                    "8.695471"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom",
+                "currencyCode": "GBP",
+                "population": "62348447",
+                "fipsCode": "UK",
+                "isoNumeric": "826",
+                "capital": "London",
+                "continentName": "Europe",
+                "languages": "en-GB,cy-GB,gd",
+                "geonameId": "2635167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "59.360249",
+                    "49.906193",
+                    "1.759",
+                    "-8.623555"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GD",
+                "countryName": "Grenada",
+                "currencyCode": "XCD",
+                "population": "107818",
+                "fipsCode": "GJ",
+                "isoNumeric": "308",
+                "capital": "St. George's",
+                "continentName": "North America",
+                "languages": "en-GD",
+                "geonameId": "3580239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.318283928171299",
+                    "11.986893",
+                    "-61.57676970108031",
+                    "-61.802344"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GE",
+                "countryName": "Georgia",
+                "currencyCode": "GEL",
+                "population": "4630000",
+                "fipsCode": "GG",
+                "isoNumeric": "268",
+                "capital": "Tbilisi",
+                "continentName": "Asia",
+                "languages": "ka,ru,hy,az",
+                "geonameId": "614540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.586498",
+                    "41.053196",
+                    "46.725971",
+                    "40.010139"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GF",
+                "countryName": "French Guiana",
+                "currencyCode": "EUR",
+                "population": "195506",
+                "fipsCode": "FG",
+                "isoNumeric": "254",
+                "capital": "Cayenne",
+                "continentName": "South America",
+                "languages": "fr-GF",
+                "geonameId": "3381670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.776496",
+                    "2.127094",
+                    "-51.613949",
+                    "-54.542511"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GG",
+                "countryName": "Guernsey",
+                "currencyCode": "GBP",
+                "population": "65228",
+                "fipsCode": "GK",
+                "isoNumeric": "831",
+                "capital": "St Peter Port",
+                "continentName": "Europe",
+                "languages": "en,fr",
+                "geonameId": "3042362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "49.731727816705416",
+                    "49.40764156876899",
+                    "-2.1577152112246267",
+                    "-2.673194593476069"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GH",
+                "countryName": "Ghana",
+                "currencyCode": "GHS",
+                "population": "24339838",
+                "fipsCode": "GH",
+                "isoNumeric": "288",
+                "capital": "Accra",
+                "continentName": "Africa",
+                "languages": "en-GH,ak,ee,tw",
+                "geonameId": "2300660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.173301",
+                    "4.736723",
+                    "1.191781",
+                    "-3.25542"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GI",
+                "countryName": "Gibraltar",
+                "currencyCode": "GIP",
+                "population": "27884",
+                "fipsCode": "GI",
+                "isoNumeric": "292",
+                "capital": "Gibraltar",
+                "continentName": "Europe",
+                "languages": "en-GI,es,it,pt",
+                "geonameId": "2411586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.155439135670726",
+                    "36.10903070140248",
+                    "-5.338285164001491",
+                    "-5.36626149743654"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GL",
+                "countryName": "Greenland",
+                "currencyCode": "DKK",
+                "population": "56375",
+                "fipsCode": "GL",
+                "isoNumeric": "304",
+                "capital": "Nuuk",
+                "continentName": "North America",
+                "languages": "kl,da-GL,en",
+                "geonameId": "3425505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "83.627357",
+                    "59.777401",
+                    "-11.312319",
+                    "-73.04203"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GM",
+                "countryName": "Gambia",
+                "currencyCode": "GMD",
+                "population": "1593256",
+                "fipsCode": "GA",
+                "isoNumeric": "270",
+                "capital": "Banjul",
+                "continentName": "Africa",
+                "languages": "en-GM,mnk,wof,wo,ff",
+                "geonameId": "2413451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.826571",
+                    "13.064252",
+                    "-13.797793",
+                    "-16.825079"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GN",
+                "countryName": "Guinea",
+                "currencyCode": "GNF",
+                "population": "10324025",
+                "fipsCode": "GV",
+                "isoNumeric": "324",
+                "capital": "Conakry",
+                "continentName": "Africa",
+                "languages": "fr-GN",
+                "geonameId": "2420477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.67622",
+                    "7.193553",
+                    "-7.641071",
+                    "-14.926619"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GP",
+                "countryName": "Guadeloupe",
+                "currencyCode": "EUR",
+                "population": "443000",
+                "fipsCode": "GP",
+                "isoNumeric": "312",
+                "capital": "Basse-Terre",
+                "continentName": "North America",
+                "languages": "fr-GP",
+                "geonameId": "3579143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.516848",
+                    "15.867565",
+                    "-61",
+                    "-61.544765"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GQ",
+                "countryName": "Equatorial Guinea",
+                "currencyCode": "XAF",
+                "population": "1014999",
+                "fipsCode": "EK",
+                "isoNumeric": "226",
+                "capital": "Malabo",
+                "continentName": "Africa",
+                "languages": "es-GQ,fr",
+                "geonameId": "2309096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.346989",
+                    "0.92086",
+                    "11.335724",
+                    "9.346865"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GR",
+                "countryName": "Greece",
+                "currencyCode": "EUR",
+                "population": "11000000",
+                "fipsCode": "GR",
+                "isoNumeric": "300",
+                "capital": "Athens",
+                "continentName": "Europe",
+                "languages": "el-GR,en,fr",
+                "geonameId": "390903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.7484999849641",
+                    "34.8020663391466",
+                    "28.2470831714347",
+                    "19.3736035624134"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GS",
+                "countryName": "South Georgia and the South Sandwich Islands",
+                "currencyCode": "GBP",
+                "population": "30",
+                "fipsCode": "SX",
+                "isoNumeric": "239",
+                "capital": "Grytviken",
+                "continentName": "Antarctica",
+                "languages": "en",
+                "geonameId": "3474415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-53.970467",
+                    "-59.479259",
+                    "-26.229326",
+                    "-38.021175"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GT",
+                "countryName": "Guatemala",
+                "currencyCode": "GTQ",
+                "population": "13550440",
+                "fipsCode": "GT",
+                "isoNumeric": "320",
+                "capital": "Guatemala City",
+                "continentName": "North America",
+                "languages": "es-GT",
+                "geonameId": "3595528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.81522",
+                    "13.737302",
+                    "-88.223198",
+                    "-92.23629"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GU",
+                "countryName": "Guam",
+                "currencyCode": "USD",
+                "population": "159358",
+                "fipsCode": "GQ",
+                "isoNumeric": "316",
+                "capital": "Hag\u00c3\u00a5t\u00c3\u00b1a",
+                "continentName": "Oceania",
+                "languages": "en-GU,ch-GU",
+                "geonameId": "4043988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.654402",
+                    "13.23376",
+                    "144.956894",
+                    "144.61806"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GW",
+                "countryName": "Guinea-Bissau",
+                "currencyCode": "XOF",
+                "population": "1565126",
+                "fipsCode": "PU",
+                "isoNumeric": "624",
+                "capital": "Bissau",
+                "continentName": "Africa",
+                "languages": "pt-GW,pov",
+                "geonameId": "2372248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.680789",
+                    "10.924265",
+                    "-13.636522",
+                    "-16.717535"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "GY",
+                "countryName": "Guyana",
+                "currencyCode": "GYD",
+                "population": "748486",
+                "fipsCode": "GY",
+                "isoNumeric": "328",
+                "capital": "Georgetown",
+                "continentName": "South America",
+                "languages": "en-GY",
+                "geonameId": "3378535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.557567",
+                    "1.17508",
+                    "-56.480251",
+                    "-61.384762"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "HK",
+                "countryName": "Hong Kong",
+                "currencyCode": "HKD",
+                "population": "6898686",
+                "fipsCode": "HK",
+                "isoNumeric": "344",
+                "capital": "Hong Kong",
+                "continentName": "Asia",
+                "languages": "zh-HK,yue,zh,en",
+                "geonameId": "1819730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.559778",
+                    "22.15325",
+                    "114.434753",
+                    "113.837753"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "HM",
+                "countryName": "Heard Island and McDonald Islands",
+                "currencyCode": "AUD",
+                "population": "0",
+                "fipsCode": "HM",
+                "isoNumeric": "334",
+                "capital": "",
+                "continentName": "Antarctica",
+                "languages": "",
+                "geonameId": "1547314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-52.909416",
+                    "-53.192001",
+                    "73.859146",
+                    "72.596535"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "HN",
+                "countryName": "Honduras",
+                "currencyCode": "HNL",
+                "population": "7989415",
+                "fipsCode": "HO",
+                "isoNumeric": "340",
+                "capital": "Tegucigalpa",
+                "continentName": "North America",
+                "languages": "es-HN",
+                "geonameId": "3608932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.510256",
+                    "12.982411",
+                    "-83.155403",
+                    "-89.350792"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "HR",
+                "countryName": "Croatia",
+                "currencyCode": "HRK",
+                "population": "4491000",
+                "fipsCode": "HR",
+                "isoNumeric": "191",
+                "capital": "Zagreb",
+                "continentName": "Europe",
+                "languages": "hr-HR,sr",
+                "geonameId": "3202326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.53875",
+                    "42.43589",
+                    "19.427389",
+                    "13.493222"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "HT",
+                "countryName": "Haiti",
+                "currencyCode": "HTG",
+                "population": "9648924",
+                "fipsCode": "HA",
+                "isoNumeric": "332",
+                "capital": "Port-au-Prince",
+                "continentName": "North America",
+                "languages": "ht,fr-HT",
+                "geonameId": "3723988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20.08782",
+                    "18.021032",
+                    "-71.613358",
+                    "-74.478584"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "HU",
+                "countryName": "Hungary",
+                "currencyCode": "HUF",
+                "population": "9982000",
+                "fipsCode": "HU",
+                "isoNumeric": "348",
+                "capital": "Budapest",
+                "continentName": "Europe",
+                "languages": "hu-HU",
+                "geonameId": "719819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.585667",
+                    "45.74361",
+                    "22.906",
+                    "16.111889"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ID",
+                "countryName": "Indonesia",
+                "currencyCode": "IDR",
+                "population": "242968342",
+                "fipsCode": "ID",
+                "isoNumeric": "360",
+                "capital": "Jakarta",
+                "continentName": "Asia",
+                "languages": "id,en,nl,jv",
+                "geonameId": "1643084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.904417",
+                    "-10.941861",
+                    "141.021805",
+                    "95.009331"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IE",
+                "countryName": "Ireland",
+                "currencyCode": "EUR",
+                "population": "4622917",
+                "fipsCode": "EI",
+                "isoNumeric": "372",
+                "capital": "Dublin",
+                "continentName": "Europe",
+                "languages": "en-IE,ga-IE",
+                "geonameId": "2963597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "55.387917",
+                    "51.451584",
+                    "-6.002389",
+                    "-10.478556"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IL",
+                "countryName": "Israel",
+                "currencyCode": "ILS",
+                "population": "7353985",
+                "fipsCode": "IS",
+                "isoNumeric": "376",
+                "capital": "",
+                "continentName": "Asia",
+                "languages": "he,ar-IL,en-IL,",
+                "geonameId": "294640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.340137",
+                    "29.496639",
+                    "35.876804",
+                    "34.270278754419145"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IM",
+                "countryName": "Isle of Man",
+                "currencyCode": "GBP",
+                "population": "75049",
+                "fipsCode": "IM",
+                "isoNumeric": "833",
+                "capital": "Douglas",
+                "continentName": "Europe",
+                "languages": "en,gv",
+                "geonameId": "3042225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "54.419724",
+                    "54.055916",
+                    "-4.3115",
+                    "-4.798722"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IN",
+                "countryName": "India",
+                "currencyCode": "INR",
+                "population": "1173108018",
+                "fipsCode": "IN",
+                "isoNumeric": "356",
+                "capital": "New Delhi",
+                "continentName": "Asia",
+                "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+                "geonameId": "1269750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.504223",
+                    "6.747139",
+                    "97.403305",
+                    "68.186691"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IO",
+                "countryName": "British Indian Ocean Territory",
+                "currencyCode": "USD",
+                "population": "4000",
+                "fipsCode": "IO",
+                "isoNumeric": "086",
+                "capital": "",
+                "continentName": "Asia",
+                "languages": "en-IO",
+                "geonameId": "1282588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.268333",
+                    "-7.438028",
+                    "72.493164",
+                    "71.259972"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IQ",
+                "countryName": "Iraq",
+                "currencyCode": "IQD",
+                "population": "29671605",
+                "fipsCode": "IZ",
+                "isoNumeric": "368",
+                "capital": "Baghdad",
+                "continentName": "Asia",
+                "languages": "ar-IQ,ku,hy",
+                "geonameId": "99237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.378029",
+                    "29.069445",
+                    "48.575916",
+                    "38.795887"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IR",
+                "countryName": "Iran",
+                "currencyCode": "IRR",
+                "population": "76923300",
+                "fipsCode": "IR",
+                "isoNumeric": "364",
+                "capital": "Tehran",
+                "continentName": "Asia",
+                "languages": "fa-IR,ku",
+                "geonameId": "130758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.777222",
+                    "25.064083",
+                    "63.317471",
+                    "44.047279"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IS",
+                "countryName": "Iceland",
+                "currencyCode": "ISK",
+                "population": "308910",
+                "fipsCode": "IC",
+                "isoNumeric": "352",
+                "capital": "Reykjavik",
+                "continentName": "Europe",
+                "languages": "is,en,de,da,sv,no",
+                "geonameId": "2629691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "66.53463",
+                    "63.393253",
+                    "-13.495815",
+                    "-24.546524"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "IT",
+                "countryName": "Italy",
+                "currencyCode": "EUR",
+                "population": "60340328",
+                "fipsCode": "IT",
+                "isoNumeric": "380",
+                "capital": "Rome",
+                "continentName": "Europe",
+                "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
+                "geonameId": "3175395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "47.095196",
+                    "36.652779",
+                    "18.513445",
+                    "6.614889"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "JE",
+                "countryName": "Jersey",
+                "currencyCode": "GBP",
+                "population": "90812",
+                "fipsCode": "JE",
+                "isoNumeric": "832",
+                "capital": "Saint Helier",
+                "continentName": "Europe",
+                "languages": "en,pt",
+                "geonameId": "3042142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "49.265057",
+                    "49.169834",
+                    "-2.022083",
+                    "-2.260028"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "JM",
+                "countryName": "Jamaica",
+                "currencyCode": "JMD",
+                "population": "2847232",
+                "fipsCode": "JM",
+                "isoNumeric": "388",
+                "capital": "Kingston",
+                "continentName": "North America",
+                "languages": "en-JM",
+                "geonameId": "3489940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.526976",
+                    "17.703554",
+                    "-76.180321",
+                    "-78.366638"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "JO",
+                "countryName": "Jordan",
+                "currencyCode": "JOD",
+                "population": "6407085",
+                "fipsCode": "JO",
+                "isoNumeric": "400",
+                "capital": "Amman",
+                "continentName": "Asia",
+                "languages": "ar-JO,en",
+                "geonameId": "248816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.367668",
+                    "29.185888",
+                    "39.301167",
+                    "34.959999"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "JP",
+                "countryName": "Japan",
+                "currencyCode": "JPY",
+                "population": "127288000",
+                "fipsCode": "JA",
+                "isoNumeric": "392",
+                "capital": "Tokyo",
+                "continentName": "Asia",
+                "languages": "ja",
+                "geonameId": "1861060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.52314",
+                    "24.249472",
+                    "145.820892",
+                    "122.93853"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KE",
+                "countryName": "Kenya",
+                "currencyCode": "KES",
+                "population": "40046566",
+                "fipsCode": "KE",
+                "isoNumeric": "404",
+                "capital": "Nairobi",
+                "continentName": "Africa",
+                "languages": "en-KE,sw-KE",
+                "geonameId": "192950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.019938",
+                    "-4.678047",
+                    "41.899078",
+                    "33.908859"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KG",
+                "countryName": "Kyrgyzstan",
+                "currencyCode": "KGS",
+                "population": "5776500",
+                "fipsCode": "KG",
+                "isoNumeric": "417",
+                "capital": "Bishkek",
+                "continentName": "Asia",
+                "languages": "ky,uz,ru",
+                "geonameId": "1527747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.238224",
+                    "39.172832",
+                    "80.283165",
+                    "69.276611"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KH",
+                "countryName": "Cambodia",
+                "currencyCode": "KHR",
+                "population": "14453680",
+                "fipsCode": "CB",
+                "isoNumeric": "116",
+                "capital": "Phnom Penh",
+                "continentName": "Asia",
+                "languages": "km,fr,en",
+                "geonameId": "1831722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.686417",
+                    "10.409083",
+                    "107.627724",
+                    "102.339996"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KI",
+                "countryName": "Kiribati",
+                "currencyCode": "AUD",
+                "population": "92533",
+                "fipsCode": "KR",
+                "isoNumeric": "296",
+                "capital": "Tarawa",
+                "continentName": "Oceania",
+                "languages": "en-KI,gil",
+                "geonameId": "4030945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.71957",
+                    "-11.446881150186856",
+                    "-150.215347",
+                    "169.556137"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KM",
+                "countryName": "Comoros",
+                "currencyCode": "KMF",
+                "population": "773407",
+                "fipsCode": "CN",
+                "isoNumeric": "174",
+                "capital": "Moroni",
+                "continentName": "Africa",
+                "languages": "ar,fr-KM",
+                "geonameId": "921929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-11.362381",
+                    "-12.387857",
+                    "44.538223",
+                    "43.21579"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KN",
+                "countryName": "Saint Kitts and Nevis",
+                "currencyCode": "XCD",
+                "population": "51134",
+                "fipsCode": "SC",
+                "isoNumeric": "659",
+                "capital": "Basseterre",
+                "continentName": "North America",
+                "languages": "en-KN",
+                "geonameId": "3575174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.420118",
+                    "17.095343",
+                    "-62.543266",
+                    "-62.86956"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KP",
+                "countryName": "North Korea",
+                "currencyCode": "KPW",
+                "population": "22912177",
+                "fipsCode": "KN",
+                "isoNumeric": "408",
+                "capital": "Pyongyang",
+                "continentName": "Asia",
+                "languages": "ko-KP",
+                "geonameId": "1873107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.006054",
+                    "37.673332",
+                    "130.674866",
+                    "124.315887"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KR",
+                "countryName": "South Korea",
+                "currencyCode": "KRW",
+                "population": "48422644",
+                "fipsCode": "KS",
+                "isoNumeric": "410",
+                "capital": "Seoul",
+                "continentName": "Asia",
+                "languages": "ko-KR,en",
+                "geonameId": "1835841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.612446",
+                    "33.190945",
+                    "129.584671",
+                    "125.887108"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KW",
+                "countryName": "Kuwait",
+                "currencyCode": "KWD",
+                "population": "2789132",
+                "fipsCode": "KU",
+                "isoNumeric": "414",
+                "capital": "Kuwait City",
+                "continentName": "Asia",
+                "languages": "ar-KW,en",
+                "geonameId": "285570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.095945",
+                    "28.524611",
+                    "48.431473",
+                    "46.555557"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KY",
+                "countryName": "Cayman Islands",
+                "currencyCode": "KYD",
+                "population": "44270",
+                "fipsCode": "CJ",
+                "isoNumeric": "136",
+                "capital": "George Town",
+                "continentName": "North America",
+                "languages": "en-KY",
+                "geonameId": "3580718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.7617",
+                    "19.263029",
+                    "-79.727272",
+                    "-81.432777"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "KZ",
+                "countryName": "Kazakhstan",
+                "currencyCode": "KZT",
+                "population": "15340000",
+                "fipsCode": "KZ",
+                "isoNumeric": "398",
+                "capital": "Astana",
+                "continentName": "Asia",
+                "languages": "kk,ru",
+                "geonameId": "1522867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "55.451195",
+                    "40.936333",
+                    "87.312668",
+                    "46.491859"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LA",
+                "countryName": "Laos",
+                "currencyCode": "LAK",
+                "population": "6368162",
+                "fipsCode": "LA",
+                "isoNumeric": "418",
+                "capital": "Vientiane",
+                "continentName": "Asia",
+                "languages": "lo,fr,en",
+                "geonameId": "1655842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.500389",
+                    "13.910027",
+                    "107.697029",
+                    "100.093056"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LB",
+                "countryName": "Lebanon",
+                "currencyCode": "LBP",
+                "population": "4125247",
+                "fipsCode": "LE",
+                "isoNumeric": "422",
+                "capital": "Beirut",
+                "continentName": "Asia",
+                "languages": "ar-LB,fr-LB,en,hy",
+                "geonameId": "272103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.691418",
+                    "33.05386",
+                    "36.639194",
+                    "35.114277"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LC",
+                "countryName": "Saint Lucia",
+                "currencyCode": "XCD",
+                "population": "160922",
+                "fipsCode": "ST",
+                "isoNumeric": "662",
+                "capital": "Castries",
+                "continentName": "North America",
+                "languages": "en-LC",
+                "geonameId": "3576468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.103245",
+                    "13.704778",
+                    "-60.874203",
+                    "-61.07415"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LI",
+                "countryName": "Liechtenstein",
+                "currencyCode": "CHF",
+                "population": "35000",
+                "fipsCode": "LS",
+                "isoNumeric": "438",
+                "capital": "Vaduz",
+                "continentName": "Europe",
+                "languages": "de-LI",
+                "geonameId": "3042058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "47.2706251386959",
+                    "47.0484284123471",
+                    "9.63564281136796",
+                    "9.47167359782014"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LK",
+                "countryName": "Sri Lanka",
+                "currencyCode": "LKR",
+                "population": "21513990",
+                "fipsCode": "CE",
+                "isoNumeric": "144",
+                "capital": "Colombo",
+                "continentName": "Asia",
+                "languages": "si,ta,en",
+                "geonameId": "1227603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.831361",
+                    "5.916833",
+                    "81.881279",
+                    "79.652916"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LR",
+                "countryName": "Liberia",
+                "currencyCode": "LRD",
+                "population": "3685076",
+                "fipsCode": "LI",
+                "isoNumeric": "430",
+                "capital": "Monrovia",
+                "continentName": "Africa",
+                "languages": "en-LR",
+                "geonameId": "2275384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.551791",
+                    "4.353057",
+                    "-7.365113",
+                    "-11.492083"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LS",
+                "countryName": "Lesotho",
+                "currencyCode": "LSL",
+                "population": "1919552",
+                "fipsCode": "LT",
+                "isoNumeric": "426",
+                "capital": "Maseru",
+                "continentName": "Africa",
+                "languages": "en-LS,st,zu,xh",
+                "geonameId": "932692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-28.572058",
+                    "-30.668964",
+                    "29.465761",
+                    "27.029068"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LT",
+                "countryName": "Lithuania",
+                "currencyCode": "EUR",
+                "population": "2944459",
+                "fipsCode": "LH",
+                "isoNumeric": "440",
+                "capital": "Vilnius",
+                "continentName": "Europe",
+                "languages": "lt,ru,pl",
+                "geonameId": "597427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "56.446918",
+                    "53.901306",
+                    "26.871944",
+                    "20.941528"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LU",
+                "countryName": "Luxembourg",
+                "currencyCode": "EUR",
+                "population": "497538",
+                "fipsCode": "LU",
+                "isoNumeric": "442",
+                "capital": "Luxembourg",
+                "continentName": "Europe",
+                "languages": "lb,de-LU,fr-LU",
+                "geonameId": "2960313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "50.184944",
+                    "49.446583",
+                    "6.528472",
+                    "5.734556"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LV",
+                "countryName": "Latvia",
+                "currencyCode": "EUR",
+                "population": "2217969",
+                "fipsCode": "LG",
+                "isoNumeric": "428",
+                "capital": "Riga",
+                "continentName": "Europe",
+                "languages": "lv,ru,lt",
+                "geonameId": "458258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "58.082306",
+                    "55.668861",
+                    "28.241167",
+                    "20.974277"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "LY",
+                "countryName": "Libya",
+                "currencyCode": "LYD",
+                "population": "6461454",
+                "fipsCode": "LY",
+                "isoNumeric": "434",
+                "capital": "Tripoli",
+                "continentName": "Africa",
+                "languages": "ar-LY,it,en",
+                "geonameId": "2215636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.168999",
+                    "19.508045",
+                    "25.150612",
+                    "9.38702"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MA",
+                "countryName": "Morocco",
+                "currencyCode": "MAD",
+                "population": "31627428",
+                "fipsCode": "MO",
+                "isoNumeric": "504",
+                "capital": "Rabat",
+                "continentName": "Africa",
+                "languages": "ar-MA,fr",
+                "geonameId": "2542007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.9224966985384",
+                    "27.662115",
+                    "-0.991750000000025",
+                    "-13.168586"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MC",
+                "countryName": "Monaco",
+                "currencyCode": "EUR",
+                "population": "32965",
+                "fipsCode": "MN",
+                "isoNumeric": "492",
+                "capital": "Monaco",
+                "continentName": "Europe",
+                "languages": "fr-MC,en,it",
+                "geonameId": "2993457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.75196717037228",
+                    "43.72472839869377",
+                    "7.439939260482788",
+                    "7.408962249755859"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MD",
+                "countryName": "Moldova",
+                "currencyCode": "MDL",
+                "population": "4324000",
+                "fipsCode": "MD",
+                "isoNumeric": "498",
+                "capital": "Chi\u00c5\u0178in\u00c4\u0192u",
+                "continentName": "Europe",
+                "languages": "ro,ru,gag,tr",
+                "geonameId": "617790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.490166",
+                    "45.468887",
+                    "30.135445",
+                    "26.618944"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ME",
+                "countryName": "Montenegro",
+                "currencyCode": "EUR",
+                "population": "666730",
+                "fipsCode": "MJ",
+                "isoNumeric": "499",
+                "capital": "Podgorica",
+                "continentName": "Europe",
+                "languages": "sr,hu,bs,sq,hr,rom",
+                "geonameId": "3194884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.570137",
+                    "41.850166",
+                    "20.358833",
+                    "18.461306"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MF",
+                "countryName": "Saint Martin",
+                "currencyCode": "EUR",
+                "population": "35925",
+                "fipsCode": "RN",
+                "isoNumeric": "663",
+                "capital": "Marigot",
+                "continentName": "North America",
+                "languages": "fr",
+                "geonameId": "3578421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.130354",
+                    "18.052231",
+                    "-63.012993",
+                    "-63.152767"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MG",
+                "countryName": "Madagascar",
+                "currencyCode": "MGA",
+                "population": "21281844",
+                "fipsCode": "MA",
+                "isoNumeric": "450",
+                "capital": "Antananarivo",
+                "continentName": "Africa",
+                "languages": "fr-MG,mg",
+                "geonameId": "1062947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-11.945433",
+                    "-25.608952",
+                    "50.48378",
+                    "43.224876"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MH",
+                "countryName": "Marshall Islands",
+                "currencyCode": "USD",
+                "population": "65859",
+                "fipsCode": "RM",
+                "isoNumeric": "584",
+                "capital": "Majuro",
+                "continentName": "Oceania",
+                "languages": "mh,en-MH",
+                "geonameId": "2080185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.62",
+                    "5.587639",
+                    "171.931808",
+                    "165.524918"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MK",
+                "countryName": "Macedonia",
+                "currencyCode": "MKD",
+                "population": "2062294",
+                "fipsCode": "MK",
+                "isoNumeric": "807",
+                "capital": "Skopje",
+                "continentName": "Europe",
+                "languages": "mk,sq,tr,rmm,sr",
+                "geonameId": "718075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.361805",
+                    "40.860195",
+                    "23.038139",
+                    "20.464695"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ML",
+                "countryName": "Mali",
+                "currencyCode": "XOF",
+                "population": "13796354",
+                "fipsCode": "ML",
+                "isoNumeric": "466",
+                "capital": "Bamako",
+                "continentName": "Africa",
+                "languages": "fr-ML,bm",
+                "geonameId": "2453866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "25.000002",
+                    "10.159513",
+                    "4.244968",
+                    "-12.242614"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MM",
+                "countryName": "Myanmar [Burma]",
+                "currencyCode": "MMK",
+                "population": "53414374",
+                "fipsCode": "BM",
+                "isoNumeric": "104",
+                "capital": "Nay Pyi Taw",
+                "continentName": "Asia",
+                "languages": "my",
+                "geonameId": "1327865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.543249",
+                    "9.784583",
+                    "101.176781",
+                    "92.189278"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MN",
+                "countryName": "Mongolia",
+                "currencyCode": "MNT",
+                "population": "3086918",
+                "fipsCode": "MG",
+                "isoNumeric": "496",
+                "capital": "Ulan Bator",
+                "continentName": "Asia",
+                "languages": "mn,ru",
+                "geonameId": "2029969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "52.154251",
+                    "41.567638",
+                    "119.924309",
+                    "87.749664"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MO",
+                "countryName": "Macao",
+                "currencyCode": "MOP",
+                "population": "449198",
+                "fipsCode": "MC",
+                "isoNumeric": "446",
+                "capital": "Macao",
+                "continentName": "Asia",
+                "languages": "zh,zh-MO,pt",
+                "geonameId": "1821275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.222334",
+                    "22.180389",
+                    "113.565834",
+                    "113.528946"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MP",
+                "countryName": "Northern Mariana Islands",
+                "currencyCode": "USD",
+                "population": "53883",
+                "fipsCode": "CQ",
+                "isoNumeric": "580",
+                "capital": "Saipan",
+                "continentName": "Oceania",
+                "languages": "fil,tl,zh,ch-MP,en-MP",
+                "geonameId": "4041468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20.55344",
+                    "14.11023",
+                    "146.06528",
+                    "144.88626"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MQ",
+                "countryName": "Martinique",
+                "currencyCode": "EUR",
+                "population": "432900",
+                "fipsCode": "MB",
+                "isoNumeric": "474",
+                "capital": "Fort-de-France",
+                "continentName": "North America",
+                "languages": "fr-MQ",
+                "geonameId": "3570311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.878819",
+                    "14.392262",
+                    "-60.81551",
+                    "-61.230118"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MR",
+                "countryName": "Mauritania",
+                "currencyCode": "MRO",
+                "population": "3205060",
+                "fipsCode": "MR",
+                "isoNumeric": "478",
+                "capital": "Nouakchott",
+                "continentName": "Africa",
+                "languages": "ar-MR,fuc,snk,fr,mey,wo",
+                "geonameId": "2378080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.298073",
+                    "14.715547",
+                    "-4.827674",
+                    "-17.066521"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MS",
+                "countryName": "Montserrat",
+                "currencyCode": "XCD",
+                "population": "9341",
+                "fipsCode": "MH",
+                "isoNumeric": "500",
+                "capital": "Plymouth",
+                "continentName": "North America",
+                "languages": "en-MS",
+                "geonameId": "3578097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.824060205313184",
+                    "16.674768935441556",
+                    "-62.144100129608205",
+                    "-62.24138237036129"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MT",
+                "countryName": "Malta",
+                "currencyCode": "EUR",
+                "population": "403000",
+                "fipsCode": "MT",
+                "isoNumeric": "470",
+                "capital": "Valletta",
+                "continentName": "Europe",
+                "languages": "mt,en-MT",
+                "geonameId": "2562770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.0821530995456",
+                    "35.8061835000002",
+                    "14.5764915000002",
+                    "14.1834251000001"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MU",
+                "countryName": "Mauritius",
+                "currencyCode": "MUR",
+                "population": "1294104",
+                "fipsCode": "MP",
+                "isoNumeric": "480",
+                "capital": "Port Louis",
+                "continentName": "Africa",
+                "languages": "en-MU,bho,fr",
+                "geonameId": "934292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.319255",
+                    "-20.525717",
+                    "63.500179",
+                    "56.512718"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MV",
+                "countryName": "Maldives",
+                "currencyCode": "MVR",
+                "population": "395650",
+                "fipsCode": "MV",
+                "isoNumeric": "462",
+                "capital": "Mal\u00c3\u00a9",
+                "continentName": "Asia",
+                "languages": "dv,en",
+                "geonameId": "1282028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.091587495414767",
+                    "-0.692694",
+                    "73.637276",
+                    "72.693222"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MW",
+                "countryName": "Malawi",
+                "currencyCode": "MWK",
+                "population": "15447500",
+                "fipsCode": "MI",
+                "isoNumeric": "454",
+                "capital": "Lilongwe",
+                "continentName": "Africa",
+                "languages": "ny,yao,tum,swk",
+                "geonameId": "927384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.367541",
+                    "-17.125",
+                    "35.916821",
+                    "32.67395"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MX",
+                "countryName": "Mexico",
+                "currencyCode": "MXN",
+                "population": "112468855",
+                "fipsCode": "MX",
+                "isoNumeric": "484",
+                "capital": "Mexico City",
+                "continentName": "North America",
+                "languages": "es-MX",
+                "geonameId": "3996063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.716759",
+                    "14.532866",
+                    "-86.703392",
+                    "-118.453949"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MY",
+                "countryName": "Malaysia",
+                "currencyCode": "MYR",
+                "population": "28274729",
+                "fipsCode": "MY",
+                "isoNumeric": "458",
+                "capital": "Kuala Lumpur",
+                "continentName": "Asia",
+                "languages": "ms-MY,en,zh,ta,te,ml,pa,th",
+                "geonameId": "1733045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.363417",
+                    "0.855222",
+                    "119.267502",
+                    "99.643448"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "MZ",
+                "countryName": "Mozambique",
+                "currencyCode": "MZN",
+                "population": "22061451",
+                "fipsCode": "MZ",
+                "isoNumeric": "508",
+                "capital": "Maputo",
+                "continentName": "Africa",
+                "languages": "pt-MZ,vmw",
+                "geonameId": "1036973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.471883",
+                    "-26.868685",
+                    "40.842995",
+                    "30.217319"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NA",
+                "countryName": "Namibia",
+                "currencyCode": "NAD",
+                "population": "2128471",
+                "fipsCode": "WA",
+                "isoNumeric": "516",
+                "capital": "Windhoek",
+                "continentName": "Africa",
+                "languages": "en-NA,af,de,hz,naq",
+                "geonameId": "3355338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-16.959894",
+                    "-28.97143",
+                    "25.256701",
+                    "11.71563"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NC",
+                "countryName": "New Caledonia",
+                "currencyCode": "XPF",
+                "population": "216494",
+                "fipsCode": "NC",
+                "isoNumeric": "540",
+                "capital": "Noumea",
+                "continentName": "Oceania",
+                "languages": "fr-NC",
+                "geonameId": "2139685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-19.549778",
+                    "-22.698",
+                    "168.129135",
+                    "163.564667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NE",
+                "countryName": "Niger",
+                "currencyCode": "XOF",
+                "population": "15878271",
+                "fipsCode": "NG",
+                "isoNumeric": "562",
+                "capital": "Niamey",
+                "continentName": "Africa",
+                "languages": "fr-NE,ha,kr,dje",
+                "geonameId": "2440476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "23.525026",
+                    "11.696975",
+                    "15.995643",
+                    "0.16625"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NF",
+                "countryName": "Norfolk Island",
+                "currencyCode": "AUD",
+                "population": "1828",
+                "fipsCode": "NF",
+                "isoNumeric": "574",
+                "capital": "Kingston",
+                "continentName": "Oceania",
+                "languages": "en-NF",
+                "geonameId": "2155115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-28.995170686948427",
+                    "-29.063076742954735",
+                    "167.99773740209957",
+                    "167.91543230151365"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NG",
+                "countryName": "Nigeria",
+                "currencyCode": "NGN",
+                "population": "154000000",
+                "fipsCode": "NI",
+                "isoNumeric": "566",
+                "capital": "Abuja",
+                "continentName": "Africa",
+                "languages": "en-NG,ha,yo,ig,ff",
+                "geonameId": "2328926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.892007",
+                    "4.277144",
+                    "14.680073",
+                    "2.668432"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NI",
+                "countryName": "Nicaragua",
+                "currencyCode": "NIO",
+                "population": "5995928",
+                "fipsCode": "NU",
+                "isoNumeric": "558",
+                "capital": "Managua",
+                "continentName": "North America",
+                "languages": "es-NI,en",
+                "geonameId": "3617476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.025909",
+                    "10.707543",
+                    "-82.738289",
+                    "-87.690308"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NL",
+                "countryName": "Netherlands",
+                "currencyCode": "EUR",
+                "population": "16645000",
+                "fipsCode": "NL",
+                "isoNumeric": "528",
+                "capital": "Amsterdam",
+                "continentName": "Europe",
+                "languages": "nl-NL,fy-NL",
+                "geonameId": "2750405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "53.512196",
+                    "50.753918",
+                    "7.227944",
+                    "3.362556"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NO",
+                "countryName": "Norway",
+                "currencyCode": "NOK",
+                "population": "5009150",
+                "fipsCode": "NO",
+                "isoNumeric": "578",
+                "capital": "Oslo",
+                "continentName": "Europe",
+                "languages": "no,nb,nn,se,fi",
+                "geonameId": "3144096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "71.18811",
+                    "57.977917",
+                    "31.078052520751953",
+                    "4.650167"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NP",
+                "countryName": "Nepal",
+                "currencyCode": "NPR",
+                "population": "28951852",
+                "fipsCode": "NP",
+                "isoNumeric": "524",
+                "capital": "Kathmandu",
+                "continentName": "Asia",
+                "languages": "ne,en",
+                "geonameId": "1282988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.43339",
+                    "26.356722",
+                    "88.199333",
+                    "80.056274"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NR",
+                "countryName": "Nauru",
+                "currencyCode": "AUD",
+                "population": "10065",
+                "fipsCode": "NR",
+                "isoNumeric": "520",
+                "capital": "",
+                "continentName": "Oceania",
+                "languages": "na,en-NR",
+                "geonameId": "2110425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.504306",
+                    "-0.552333",
+                    "166.945282",
+                    "166.899033"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NU",
+                "countryName": "Niue",
+                "currencyCode": "NZD",
+                "population": "2166",
+                "fipsCode": "NE",
+                "isoNumeric": "570",
+                "capital": "Alofi",
+                "continentName": "Oceania",
+                "languages": "niu,en-NU",
+                "geonameId": "4036232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-18.951069",
+                    "-19.152193",
+                    "-169.775177",
+                    "-169.951004"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "NZ",
+                "countryName": "New Zealand",
+                "currencyCode": "NZD",
+                "population": "4252277",
+                "fipsCode": "NZ",
+                "isoNumeric": "554",
+                "capital": "Wellington",
+                "continentName": "Oceania",
+                "languages": "en-NZ,mi",
+                "geonameId": "2186224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-34.389668",
+                    "-47.286026",
+                    "-180",
+                    "166.7155"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "OM",
+                "countryName": "Oman",
+                "currencyCode": "OMR",
+                "population": "2967717",
+                "fipsCode": "MU",
+                "isoNumeric": "512",
+                "capital": "Muscat",
+                "continentName": "Asia",
+                "languages": "ar-OM,en,bal,ur",
+                "geonameId": "286963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.387972",
+                    "16.64575",
+                    "59.836582",
+                    "51.882"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PA",
+                "countryName": "Panama",
+                "currencyCode": "PAB",
+                "population": "3410676",
+                "fipsCode": "PM",
+                "isoNumeric": "591",
+                "capital": "Panama City",
+                "continentName": "North America",
+                "languages": "es-PA,en",
+                "geonameId": "3703430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.637514",
+                    "7.197906",
+                    "-77.17411",
+                    "-83.051445"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PE",
+                "countryName": "Peru",
+                "currencyCode": "PEN",
+                "population": "29907003",
+                "fipsCode": "PE",
+                "isoNumeric": "604",
+                "capital": "Lima",
+                "continentName": "South America",
+                "languages": "es-PE,qu,ay",
+                "geonameId": "3932488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.012977",
+                    "-18.349728",
+                    "-68.677986",
+                    "-81.326744"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PF",
+                "countryName": "French Polynesia",
+                "currencyCode": "XPF",
+                "population": "270485",
+                "fipsCode": "FP",
+                "isoNumeric": "258",
+                "capital": "Papeete",
+                "continentName": "Oceania",
+                "languages": "fr-PF,ty",
+                "geonameId": "4030656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.903573",
+                    "-27.653572",
+                    "-134.929825",
+                    "-152.877167"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PG",
+                "countryName": "Papua New Guinea",
+                "currencyCode": "PGK",
+                "population": "6064515",
+                "fipsCode": "PP",
+                "isoNumeric": "598",
+                "capital": "Port Moresby",
+                "continentName": "Oceania",
+                "languages": "en-PG,ho,meu,tpi",
+                "geonameId": "2088628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.318639",
+                    "-11.657861",
+                    "155.96344",
+                    "140.842865"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PH",
+                "countryName": "Philippines",
+                "currencyCode": "PHP",
+                "population": "99900177",
+                "fipsCode": "RP",
+                "isoNumeric": "608",
+                "capital": "Manila",
+                "continentName": "Asia",
+                "languages": "tl,en-PH,fil",
+                "geonameId": "1694008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.120611",
+                    "4.643306",
+                    "126.601524",
+                    "116.931557"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PK",
+                "countryName": "Pakistan",
+                "currencyCode": "PKR",
+                "population": "184404791",
+                "fipsCode": "PK",
+                "isoNumeric": "586",
+                "capital": "Islamabad",
+                "continentName": "Asia",
+                "languages": "ur-PK,en-PK,pa,sd,ps,brh",
+                "geonameId": "1168579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.097",
+                    "23.786722",
+                    "77.840919",
+                    "60.878613"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PL",
+                "countryName": "Poland",
+                "currencyCode": "PLN",
+                "population": "38500000",
+                "fipsCode": "PL",
+                "isoNumeric": "616",
+                "capital": "Warsaw",
+                "continentName": "Europe",
+                "languages": "pl",
+                "geonameId": "798544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "54.839138",
+                    "49.006363",
+                    "24.150749",
+                    "14.123"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PM",
+                "countryName": "Saint Pierre and Miquelon",
+                "currencyCode": "EUR",
+                "population": "7012",
+                "fipsCode": "SB",
+                "isoNumeric": "666",
+                "capital": "Saint-Pierre",
+                "continentName": "North America",
+                "languages": "fr-PM",
+                "geonameId": "3424932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "47.146286",
+                    "46.786041",
+                    "-56.252991",
+                    "-56.420658"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PN",
+                "countryName": "Pitcairn Islands",
+                "currencyCode": "NZD",
+                "population": "46",
+                "fipsCode": "PC",
+                "isoNumeric": "612",
+                "capital": "Adamstown",
+                "continentName": "Oceania",
+                "languages": "en-PN",
+                "geonameId": "4030699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-24.315865",
+                    "-24.672565",
+                    "-124.77285",
+                    "-128.346436"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PR",
+                "countryName": "Puerto Rico",
+                "currencyCode": "USD",
+                "population": "3916632",
+                "fipsCode": "RQ",
+                "isoNumeric": "630",
+                "capital": "San Juan",
+                "continentName": "North America",
+                "languages": "en-PR,es-PR",
+                "geonameId": "4566966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.520166",
+                    "17.926405",
+                    "-65.242737",
+                    "-67.942726"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PS",
+                "countryName": "Palestine",
+                "currencyCode": "ILS",
+                "population": "3800000",
+                "fipsCode": "WE",
+                "isoNumeric": "275",
+                "capital": "",
+                "continentName": "Asia",
+                "languages": "ar-PS",
+                "geonameId": "6254930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.54638671875",
+                    "31.216541290283203",
+                    "35.5732955932617",
+                    "34.21665954589844"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PT",
+                "countryName": "Portugal",
+                "currencyCode": "EUR",
+                "population": "10676000",
+                "fipsCode": "PO",
+                "isoNumeric": "620",
+                "capital": "Lisbon",
+                "continentName": "Europe",
+                "languages": "pt-PT,mwl",
+                "geonameId": "2264397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.154311127408",
+                    "36.96125",
+                    "-6.18915930748288",
+                    "-9.50052660716588"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PW",
+                "countryName": "Palau",
+                "currencyCode": "USD",
+                "population": "19907",
+                "fipsCode": "PS",
+                "isoNumeric": "585",
+                "capital": "Melekeok - Palau State Capital",
+                "continentName": "Oceania",
+                "languages": "pau,sov,en-PW,tox,ja,fil,zh",
+                "geonameId": "1559582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.46966",
+                    "2.8036",
+                    "134.72307",
+                    "131.11788"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "PY",
+                "countryName": "Paraguay",
+                "currencyCode": "PYG",
+                "population": "6375830",
+                "fipsCode": "PA",
+                "isoNumeric": "600",
+                "capital": "Asunci\u00c3\u00b3n",
+                "continentName": "South America",
+                "languages": "es-PY,gn",
+                "geonameId": "3437598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-19.294041",
+                    "-27.608738",
+                    "-54.259354",
+                    "-62.647076"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "QA",
+                "countryName": "Qatar",
+                "currencyCode": "QAR",
+                "population": "840926",
+                "fipsCode": "QA",
+                "isoNumeric": "634",
+                "capital": "Doha",
+                "continentName": "Asia",
+                "languages": "ar-QA,es",
+                "geonameId": "289688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.154722",
+                    "24.482944",
+                    "51.636639",
+                    "50.757221"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "RE",
+                "countryName": "R\u00c3\u00a9union",
+                "currencyCode": "EUR",
+                "population": "776948",
+                "fipsCode": "RE",
+                "isoNumeric": "638",
+                "capital": "Saint-Denis",
+                "continentName": "Africa",
+                "languages": "fr-RE",
+                "geonameId": "935317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-20.868391324576944",
+                    "-21.383747301469107",
+                    "55.838193901930026",
+                    "55.21219224792685"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "RO",
+                "countryName": "Romania",
+                "currencyCode": "RON",
+                "population": "21959278",
+                "fipsCode": "RO",
+                "isoNumeric": "642",
+                "capital": "Bucharest",
+                "continentName": "Europe",
+                "languages": "ro,hu,rom",
+                "geonameId": "798549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.266945",
+                    "43.627304",
+                    "29.691055",
+                    "20.269972"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "RS",
+                "countryName": "Serbia",
+                "currencyCode": "RSD",
+                "population": "7344847",
+                "fipsCode": "RI",
+                "isoNumeric": "688",
+                "capital": "Belgrade",
+                "continentName": "Europe",
+                "languages": "sr,hu,bs,rom",
+                "geonameId": "6290252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.18138885498047",
+                    "42.232215881347656",
+                    "23.00499725341797",
+                    "18.817020416259766"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "RU",
+                "countryName": "Russia",
+                "currencyCode": "RUB",
+                "population": "140702000",
+                "fipsCode": "RS",
+                "isoNumeric": "643",
+                "capital": "Moscow",
+                "continentName": "Europe",
+                "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",
+                "geonameId": "2017370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "81.857361",
+                    "41.188862",
+                    "-169.05",
+                    "19.25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "RW",
+                "countryName": "Rwanda",
+                "currencyCode": "RWF",
+                "population": "11055976",
+                "fipsCode": "RW",
+                "isoNumeric": "646",
+                "capital": "Kigali",
+                "continentName": "Africa",
+                "languages": "rw,en-RW,fr-RW,sw",
+                "geonameId": "49518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.053481",
+                    "-2.840679",
+                    "30.895958",
+                    "28.856794"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SA",
+                "countryName": "Saudi Arabia",
+                "currencyCode": "SAR",
+                "population": "25731776",
+                "fipsCode": "SA",
+                "isoNumeric": "682",
+                "capital": "Riyadh",
+                "continentName": "Asia",
+                "languages": "ar-SA",
+                "geonameId": "102358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.158333",
+                    "15.61425",
+                    "55.666584",
+                    "34.495693"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SB",
+                "countryName": "Solomon Islands",
+                "currencyCode": "SBD",
+                "population": "559198",
+                "fipsCode": "BP",
+                "isoNumeric": "090",
+                "capital": "Honiara",
+                "continentName": "Oceania",
+                "languages": "en-SB,tpi",
+                "geonameId": "2103350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.589611",
+                    "-11.850555",
+                    "166.980865",
+                    "155.508606"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SC",
+                "countryName": "Seychelles",
+                "currencyCode": "SCR",
+                "population": "88340",
+                "fipsCode": "SE",
+                "isoNumeric": "690",
+                "capital": "Victoria",
+                "continentName": "Africa",
+                "languages": "en-SC,fr-SC",
+                "geonameId": "241170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.283717",
+                    "-9.753867",
+                    "56.29770287937299",
+                    "46.204769"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SD",
+                "countryName": "Sudan",
+                "currencyCode": "SDG",
+                "population": "35000000",
+                "fipsCode": "SU",
+                "isoNumeric": "729",
+                "capital": "Khartoum",
+                "continentName": "Africa",
+                "languages": "ar-SD,en,fia",
+                "geonameId": "366755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.232219696044922",
+                    "8.684720993041992",
+                    "38.60749816894531",
+                    "21.827774047851562"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SE",
+                "countryName": "Sweden",
+                "currencyCode": "SEK",
+                "population": "9555893",
+                "fipsCode": "SW",
+                "isoNumeric": "752",
+                "capital": "Stockholm",
+                "continentName": "Europe",
+                "languages": "sv-SE,se,sma,fi-SE",
+                "geonameId": "2661886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "69.0625",
+                    "55.337112",
+                    "24.1562924839185",
+                    "11.118694"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SG",
+                "countryName": "Singapore",
+                "currencyCode": "SGD",
+                "population": "4701069",
+                "fipsCode": "SN",
+                "isoNumeric": "702",
+                "capital": "Singapore",
+                "continentName": "Asia",
+                "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
+                "geonameId": "1880251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.471278",
+                    "1.258556",
+                    "104.007469",
+                    "103.638275"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SH",
+                "countryName": "Saint Helena",
+                "currencyCode": "SHP",
+                "population": "7460",
+                "fipsCode": "SH",
+                "isoNumeric": "654",
+                "capital": "Jamestown",
+                "continentName": "Africa",
+                "languages": "en-SH",
+                "geonameId": "3370751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.887815",
+                    "-16.019543",
+                    "-5.638753",
+                    "-14.42123"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SI",
+                "countryName": "Slovenia",
+                "currencyCode": "EUR",
+                "population": "2007000",
+                "fipsCode": "SI",
+                "isoNumeric": "705",
+                "capital": "Ljubljana",
+                "continentName": "Europe",
+                "languages": "sl,sh",
+                "geonameId": "3190538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.8766275518195",
+                    "45.421812998164",
+                    "16.6106311807",
+                    "13.3753342064709"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SJ",
+                "countryName": "Svalbard and Jan Mayen",
+                "currencyCode": "NOK",
+                "population": "2550",
+                "fipsCode": "SV",
+                "isoNumeric": "744",
+                "capital": "Longyearbyen",
+                "continentName": "Europe",
+                "languages": "no,ru",
+                "geonameId": "607072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "80.762085",
+                    "79.220306",
+                    "33.287334",
+                    "17.699389"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SK",
+                "countryName": "Slovakia",
+                "currencyCode": "EUR",
+                "population": "5455000",
+                "fipsCode": "LO",
+                "isoNumeric": "703",
+                "capital": "Bratislava",
+                "continentName": "Europe",
+                "languages": "sk,hu",
+                "geonameId": "3057568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "49.603168",
+                    "47.728111",
+                    "22.570444",
+                    "16.84775"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SL",
+                "countryName": "Sierra Leone",
+                "currencyCode": "SLL",
+                "population": "5245695",
+                "fipsCode": "SL",
+                "isoNumeric": "694",
+                "capital": "Freetown",
+                "continentName": "Africa",
+                "languages": "en-SL,men,tem",
+                "geonameId": "2403846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10",
+                    "6.929611",
+                    "-10.284238",
+                    "-13.307631"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SM",
+                "countryName": "San Marino",
+                "currencyCode": "EUR",
+                "population": "31477",
+                "fipsCode": "SM",
+                "isoNumeric": "674",
+                "capital": "San Marino",
+                "continentName": "Europe",
+                "languages": "it-SM",
+                "geonameId": "3168068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.99223730851663",
+                    "43.8937092171425",
+                    "12.51653186779788",
+                    "12.403538978820734"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SN",
+                "countryName": "Senegal",
+                "currencyCode": "XOF",
+                "population": "12323252",
+                "fipsCode": "SG",
+                "isoNumeric": "686",
+                "capital": "Dakar",
+                "continentName": "Africa",
+                "languages": "fr-SN,wo,fuc,mnk",
+                "geonameId": "2245662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.691633",
+                    "12.307275",
+                    "-11.355887",
+                    "-17.535236"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SO",
+                "countryName": "Somalia",
+                "currencyCode": "SOS",
+                "population": "10112453",
+                "fipsCode": "SO",
+                "isoNumeric": "706",
+                "capital": "Mogadishu",
+                "continentName": "Africa",
+                "languages": "so-SO,ar-SO,it,en-SO",
+                "geonameId": "51537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.979166",
+                    "-1.674868",
+                    "51.412636",
+                    "40.986595"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SR",
+                "countryName": "Suriname",
+                "currencyCode": "SRD",
+                "population": "492829",
+                "fipsCode": "NS",
+                "isoNumeric": "740",
+                "capital": "Paramaribo",
+                "continentName": "South America",
+                "languages": "nl-SR,en,srn,hns,jv",
+                "geonameId": "3382998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.004546",
+                    "1.831145",
+                    "-53.977493",
+                    "-58.086563"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SS",
+                "countryName": "South Sudan",
+                "currencyCode": "SSP",
+                "population": "8260490",
+                "fipsCode": "OD",
+                "isoNumeric": "728",
+                "capital": "Juba",
+                "continentName": "Africa",
+                "languages": "en",
+                "geonameId": "7909807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.219148635864258",
+                    "3.493394374847412",
+                    "35.9405517578125",
+                    "24.140274047851562"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ST",
+                "countryName": "S\u00c3\u00a3o Tom\u00c3\u00a9 and Pr\u00c3\u00adncipe",
+                "currencyCode": "STD",
+                "population": "175808",
+                "fipsCode": "TP",
+                "isoNumeric": "678",
+                "capital": "S\u00c3\u00a3o Tom\u00c3\u00a9",
+                "continentName": "Africa",
+                "languages": "pt-ST",
+                "geonameId": "2410758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.701323",
+                    "0.024766",
+                    "7.466374",
+                    "6.47017"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SV",
+                "countryName": "El Salvador",
+                "currencyCode": "USD",
+                "population": "6052064",
+                "fipsCode": "ES",
+                "isoNumeric": "222",
+                "capital": "San Salvador",
+                "continentName": "North America",
+                "languages": "es-SV",
+                "geonameId": "3585968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.445067",
+                    "13.148679",
+                    "-87.692162",
+                    "-90.128662"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SX",
+                "countryName": "Sint Maarten",
+                "currencyCode": "ANG",
+                "population": "37429",
+                "fipsCode": "NN",
+                "isoNumeric": "534",
+                "capital": "Philipsburg",
+                "continentName": "North America",
+                "languages": "nl,en",
+                "geonameId": "7609695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.070248",
+                    "18.011692",
+                    "-63.012993",
+                    "-63.144039"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SY",
+                "countryName": "Syria",
+                "currencyCode": "SYP",
+                "population": "22198110",
+                "fipsCode": "SY",
+                "isoNumeric": "760",
+                "capital": "Damascus",
+                "continentName": "Asia",
+                "languages": "ar-SY,ku,hy,arc,fr,en",
+                "geonameId": "163843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.319138",
+                    "32.310665",
+                    "42.385029",
+                    "35.727222"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "SZ",
+                "countryName": "Swaziland",
+                "currencyCode": "SZL",
+                "population": "1354051",
+                "fipsCode": "WZ",
+                "isoNumeric": "748",
+                "capital": "Mbabane",
+                "continentName": "Africa",
+                "languages": "en-SZ,ss-SZ",
+                "geonameId": "934841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-25.719648",
+                    "-27.317101",
+                    "32.13726",
+                    "30.794107"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TC",
+                "countryName": "Turks and Caicos Islands",
+                "currencyCode": "USD",
+                "population": "20556",
+                "fipsCode": "TK",
+                "isoNumeric": "796",
+                "capital": "Cockburn Town",
+                "continentName": "North America",
+                "languages": "en-TC",
+                "geonameId": "3576916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.961878",
+                    "21.422626",
+                    "-71.123642",
+                    "-72.483871"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TD",
+                "countryName": "Chad",
+                "currencyCode": "XAF",
+                "population": "10543464",
+                "fipsCode": "CD",
+                "isoNumeric": "148",
+                "capital": "N'Djamena",
+                "continentName": "Africa",
+                "languages": "fr-TD,ar-TD,sre",
+                "geonameId": "2434508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "23.450369",
+                    "7.441068",
+                    "24.002661",
+                    "13.473475"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TF",
+                "countryName": "French Southern Territories",
+                "currencyCode": "EUR",
+                "population": "140",
+                "fipsCode": "FS",
+                "isoNumeric": "260",
+                "capital": "Port-aux-Fran\u00c3\u00a7ais",
+                "continentName": "Antarctica",
+                "languages": "fr",
+                "geonameId": "1546748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-37.790722",
+                    "-49.735184",
+                    "77.598808",
+                    "50.170258"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TG",
+                "countryName": "Togo",
+                "currencyCode": "XOF",
+                "population": "6587239",
+                "fipsCode": "TO",
+                "isoNumeric": "768",
+                "capital": "Lom\u00c3\u00a9",
+                "continentName": "Africa",
+                "languages": "fr-TG,ee,hna,kbp,dag,ha",
+                "geonameId": "2363686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.138977",
+                    "6.104417",
+                    "1.806693",
+                    "-0.147324"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TH",
+                "countryName": "Thailand",
+                "currencyCode": "THB",
+                "population": "67089500",
+                "fipsCode": "TH",
+                "isoNumeric": "764",
+                "capital": "Bangkok",
+                "continentName": "Asia",
+                "languages": "th,en",
+                "geonameId": "1605651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20.463194",
+                    "5.61",
+                    "105.639389",
+                    "97.345642"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TJ",
+                "countryName": "Tajikistan",
+                "currencyCode": "TJS",
+                "population": "7487489",
+                "fipsCode": "TI",
+                "isoNumeric": "762",
+                "capital": "Dushanbe",
+                "continentName": "Asia",
+                "languages": "tg,ru",
+                "geonameId": "1220409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.042252",
+                    "36.674137",
+                    "75.137222",
+                    "67.387138"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TK",
+                "countryName": "Tokelau",
+                "currencyCode": "NZD",
+                "population": "1466",
+                "fipsCode": "TL",
+                "isoNumeric": "772",
+                "capital": "",
+                "continentName": "Oceania",
+                "languages": "tkl,en-TK",
+                "geonameId": "4031074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.553613662719727",
+                    "-9.381111145019531",
+                    "-171.21142578125",
+                    "-172.50033569335938"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TL",
+                "countryName": "East Timor",
+                "currencyCode": "USD",
+                "population": "1154625",
+                "fipsCode": "TT",
+                "isoNumeric": "626",
+                "capital": "Dili",
+                "continentName": "Oceania",
+                "languages": "tet,pt-TL,id,en",
+                "geonameId": "1966436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.135833740234375",
+                    "-9.463626861572266",
+                    "127.30859375",
+                    "124.04609680175781"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TM",
+                "countryName": "Turkmenistan",
+                "currencyCode": "TMT",
+                "population": "4940916",
+                "fipsCode": "TX",
+                "isoNumeric": "795",
+                "capital": "Ashgabat",
+                "continentName": "Asia",
+                "languages": "tk,ru,uz",
+                "geonameId": "1218197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.795555",
+                    "35.141083",
+                    "66.684303",
+                    "52.441444"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TN",
+                "countryName": "Tunisia",
+                "currencyCode": "TND",
+                "population": "10589025",
+                "fipsCode": "TS",
+                "isoNumeric": "788",
+                "capital": "Tunis",
+                "continentName": "Africa",
+                "languages": "ar-TN,fr",
+                "geonameId": "2464461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.543915",
+                    "30.240417",
+                    "11.598278",
+                    "7.524833"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TO",
+                "countryName": "Tonga",
+                "currencyCode": "TOP",
+                "population": "122580",
+                "fipsCode": "TN",
+                "isoNumeric": "776",
+                "capital": "Nuku'alofa",
+                "continentName": "Oceania",
+                "languages": "to,en-TO",
+                "geonameId": "4032283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-15.562988",
+                    "-21.455057",
+                    "-173.907578",
+                    "-175.682266"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TR",
+                "countryName": "Turkey",
+                "currencyCode": "TRY",
+                "population": "77804122",
+                "fipsCode": "TU",
+                "isoNumeric": "792",
+                "capital": "Ankara",
+                "continentName": "Asia",
+                "languages": "tr-TR,ku,diq,az,av",
+                "geonameId": "298795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.107613",
+                    "35.815418",
+                    "44.834999",
+                    "25.668501"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TT",
+                "countryName": "Trinidad and Tobago",
+                "currencyCode": "TTD",
+                "population": "1228691",
+                "fipsCode": "TD",
+                "isoNumeric": "780",
+                "capital": "Port of Spain",
+                "continentName": "North America",
+                "languages": "en-TT,hns,fr,es,zh",
+                "geonameId": "3573591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.338342",
+                    "10.036105",
+                    "-60.517933",
+                    "-61.923771"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TV",
+                "countryName": "Tuvalu",
+                "currencyCode": "AUD",
+                "population": "10472",
+                "fipsCode": "TV",
+                "isoNumeric": "798",
+                "capital": "Funafuti",
+                "continentName": "Oceania",
+                "languages": "tvl,en,sm,gil",
+                "geonameId": "2110297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.641972",
+                    "-10.801169",
+                    "179.863281",
+                    "176.064865"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TW",
+                "countryName": "Taiwan",
+                "currencyCode": "TWD",
+                "population": "22894384",
+                "fipsCode": "TW",
+                "isoNumeric": "158",
+                "capital": "Taipei",
+                "continentName": "Asia",
+                "languages": "zh-TW,zh,nan,hak",
+                "geonameId": "1668284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "25.3002899036181",
+                    "21.896606934717",
+                    "122.006739823315",
+                    "119.534691"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "TZ",
+                "countryName": "Tanzania",
+                "currencyCode": "TZS",
+                "population": "41892895",
+                "fipsCode": "TZ",
+                "isoNumeric": "834",
+                "capital": "Dodoma",
+                "continentName": "Africa",
+                "languages": "sw-TZ,en,ar",
+                "geonameId": "149590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.990736",
+                    "-11.745696",
+                    "40.443222",
+                    "29.327168"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "UA",
+                "countryName": "Ukraine",
+                "currencyCode": "UAH",
+                "population": "45415596",
+                "fipsCode": "UP",
+                "isoNumeric": "804",
+                "capital": "Kyiv",
+                "continentName": "Europe",
+                "languages": "uk,ru-UA,rom,pl,hu",
+                "geonameId": "690791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "52.369362",
+                    "44.390415",
+                    "40.20739",
+                    "22.128889"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "UG",
+                "countryName": "Uganda",
+                "currencyCode": "UGX",
+                "population": "33398682",
+                "fipsCode": "UG",
+                "isoNumeric": "800",
+                "capital": "Kampala",
+                "continentName": "Africa",
+                "languages": "en-UG,lg,sw,ar",
+                "geonameId": "226074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.214427",
+                    "-1.48405",
+                    "35.036049",
+                    "29.573252"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "UM",
+                "countryName": "U.S. Minor Outlying Islands",
+                "currencyCode": "USD",
+                "population": "0",
+                "fipsCode": "",
+                "isoNumeric": "581",
+                "capital": "",
+                "continentName": "Oceania",
+                "languages": "en-UM",
+                "geonameId": "5854968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.219814",
+                    "-0.389006",
+                    "166.654526",
+                    "-177.392029"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "US",
+                "countryName": "United States",
+                "currencyCode": "USD",
+                "population": "310232863",
+                "fipsCode": "US",
+                "isoNumeric": "840",
+                "capital": "Washington",
+                "continentName": "North America",
+                "languages": "en-US,es-US,haw,fr",
+                "geonameId": "6252001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "49.388611",
+                    "24.544245",
+                    "-66.954811",
+                    "-124.733253"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "UY",
+                "countryName": "Uruguay",
+                "currencyCode": "UYU",
+                "population": "3477000",
+                "fipsCode": "UY",
+                "isoNumeric": "858",
+                "capital": "Montevideo",
+                "continentName": "South America",
+                "languages": "es-UY",
+                "geonameId": "3439705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-30.082224",
+                    "-34.980816",
+                    "-53.073933",
+                    "-58.442722"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "UZ",
+                "countryName": "Uzbekistan",
+                "currencyCode": "UZS",
+                "population": "27865738",
+                "fipsCode": "UZ",
+                "isoNumeric": "860",
+                "capital": "Tashkent",
+                "continentName": "Asia",
+                "languages": "uz,ru,tg",
+                "geonameId": "1512440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.575001",
+                    "37.184444",
+                    "73.132278",
+                    "55.996639"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VA",
+                "countryName": "Vatican City",
+                "currencyCode": "EUR",
+                "population": "921",
+                "fipsCode": "VT",
+                "isoNumeric": "336",
+                "capital": "Vatican",
+                "continentName": "Europe",
+                "languages": "la,it,fr",
+                "geonameId": "3164670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.90743830885576",
+                    "41.90027960306854",
+                    "12.45837546629481",
+                    "12.44570678169205"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VC",
+                "countryName": "Saint Vincent and the Grenadines",
+                "currencyCode": "XCD",
+                "population": "104217",
+                "fipsCode": "VC",
+                "isoNumeric": "670",
+                "capital": "Kingstown",
+                "continentName": "North America",
+                "languages": "en-VC,fr",
+                "geonameId": "3577815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.377834",
+                    "12.583984810969037",
+                    "-61.11388",
+                    "-61.46090317727658"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VE",
+                "countryName": "Venezuela",
+                "currencyCode": "VEF",
+                "population": "27223228",
+                "fipsCode": "VE",
+                "isoNumeric": "862",
+                "capital": "Caracas",
+                "continentName": "South America",
+                "languages": "es-VE",
+                "geonameId": "3625428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.201903",
+                    "0.626311",
+                    "-59.80378",
+                    "-73.354073"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VG",
+                "countryName": "British Virgin Islands",
+                "currencyCode": "USD",
+                "population": "21730",
+                "fipsCode": "VI",
+                "isoNumeric": "092",
+                "capital": "Road Town",
+                "continentName": "North America",
+                "languages": "en-VG",
+                "geonameId": "3577718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.757221",
+                    "18.383710898211305",
+                    "-64.268768",
+                    "-64.71312752730364"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VI",
+                "countryName": "U.S. Virgin Islands",
+                "currencyCode": "USD",
+                "population": "108708",
+                "fipsCode": "VQ",
+                "isoNumeric": "850",
+                "capital": "Charlotte Amalie",
+                "continentName": "North America",
+                "languages": "en-VI",
+                "geonameId": "4796775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.415382",
+                    "17.673931",
+                    "-64.565193",
+                    "-65.101333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VN",
+                "countryName": "Vietnam",
+                "currencyCode": "VND",
+                "population": "89571130",
+                "fipsCode": "VM",
+                "isoNumeric": "704",
+                "capital": "Hanoi",
+                "continentName": "Asia",
+                "languages": "vi,en,fr,zh,km",
+                "geonameId": "1562822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "23.388834",
+                    "8.559611",
+                    "109.464638",
+                    "102.148224"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "VU",
+                "countryName": "Vanuatu",
+                "currencyCode": "VUV",
+                "population": "221552",
+                "fipsCode": "NH",
+                "isoNumeric": "548",
+                "capital": "Port Vila",
+                "continentName": "Oceania",
+                "languages": "bi,en-VU,fr-VU",
+                "geonameId": "2134431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-13.073444",
+                    "-20.248945",
+                    "169.904785",
+                    "166.524979"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "WF",
+                "countryName": "Wallis and Futuna",
+                "currencyCode": "XPF",
+                "population": "16025",
+                "fipsCode": "WF",
+                "isoNumeric": "876",
+                "capital": "Mata-Utu",
+                "continentName": "Oceania",
+                "languages": "wls,fud,fr-WF",
+                "geonameId": "4034749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-13.216758181061444",
+                    "-14.314559989820843",
+                    "-176.16174317718253",
+                    "-178.1848112896414"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "WS",
+                "countryName": "Samoa",
+                "currencyCode": "WST",
+                "population": "192001",
+                "fipsCode": "WS",
+                "isoNumeric": "882",
+                "capital": "Apia",
+                "continentName": "Oceania",
+                "languages": "sm,en-WS",
+                "geonameId": "4034894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-13.432207",
+                    "-14.040939",
+                    "-171.415741",
+                    "-172.798599"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "XK",
+                "countryName": "Kosovo",
+                "currencyCode": "EUR",
+                "population": "1800000",
+                "fipsCode": "KV",
+                "isoNumeric": "0",
+                "capital": "Pristina",
+                "continentName": "Europe",
+                "languages": "sq,sr",
+                "geonameId": "831053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.2682495807952",
+                    "41.856369601859925",
+                    "21.80335088694943",
+                    "19.977481504492914"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "YE",
+                "countryName": "Yemen",
+                "currencyCode": "YER",
+                "population": "23495361",
+                "fipsCode": "YM",
+                "isoNumeric": "887",
+                "capital": "Sanaa",
+                "continentName": "Asia",
+                "languages": "ar-YE",
+                "geonameId": "69543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.9999989031009",
+                    "12.1110910264462",
+                    "54.5305388163283",
+                    "42.5325394314234"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "YT",
+                "countryName": "Mayotte",
+                "currencyCode": "EUR",
+                "population": "159042",
+                "fipsCode": "MF",
+                "isoNumeric": "175",
+                "capital": "Mamoutzou",
+                "continentName": "Africa",
+                "languages": "fr-YT",
+                "geonameId": "1024031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-12.648891",
+                    "-13.000132",
+                    "45.29295",
+                    "45.03796"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ZA",
+                "countryName": "South Africa",
+                "currencyCode": "ZAR",
+                "population": "49000000",
+                "fipsCode": "SF",
+                "isoNumeric": "710",
+                "capital": "Pretoria",
+                "continentName": "Africa",
+                "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
+                "geonameId": "953987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-22.126612",
+                    "-34.839828",
+                    "32.895973",
+                    "16.458021"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ZM",
+                "countryName": "Zambia",
+                "currencyCode": "ZMW",
+                "population": "13460305",
+                "fipsCode": "ZA",
+                "isoNumeric": "894",
+                "capital": "Lusaka",
+                "continentName": "Africa",
+                "languages": "en-ZM,bem,loz,lun,lue,ny,toi",
+                "geonameId": "895949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.22436",
+                    "-18.079473",
+                    "33.705704",
+                    "21.999371"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "countryCode": "ZW",
+                "countryName": "Zimbabwe",
+                "currencyCode": "ZWL",
+                "population": "11651858",
+                "fipsCode": "ZI",
+                "isoNumeric": "716",
+                "capital": "Harare",
+                "continentName": "Africa",
+                "languages": "en-ZW,sn,nr,nd",
+                "geonameId": "878675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-15.608835",
+                    "-22.417738",
+                    "33.056305",
+                    "25.237028"
+                ]
+            }
+        }
+    ]
+}
