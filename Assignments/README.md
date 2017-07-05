@@ -5,7 +5,7 @@
 1.airports
 2.earthquakes
 3.meteorite
-4.states¬_borders
+4.state_borders
 5.volcanos
 
 Example queries:
